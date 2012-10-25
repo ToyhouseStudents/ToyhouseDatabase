@@ -35,14 +35,14 @@ if (!isset($CONFIG)) {
  * @global string $CONFIG->dbuser
  * @name $CONFIG->dbuser
  */
-$CONFIG->dbuser = 'root';
+$CONFIG->dbuser = 'iedb';
 
 /**
  * The database password
  *
  * @global string $CONFIG->dbpass
  */
-$CONFIG->dbpass = 'RUNrun,pantaovay';
+$CONFIG->dbpass = 'iedb';
 
 /**
  * The database name
