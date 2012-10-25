@@ -51,8 +51,8 @@ database.params.host = "localhost"
 
 ; Username and password with the appropriate rights for Phprojekt to access to
 ; the database.
-database.params.username = "root"
-database.params.password = "RUNrun,pantaovay"
+database.params.username = "iedb"
+database.params.password = "iedb"
 
 ; Name of the database, inside the server
 database.params.dbname = "toyhouse"

@@ -28,7 +28,7 @@ $wgScriptPath       = "/mediawiki";
 $wgScriptExtension  = ".php";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer           = "http://166.111.59.15";
+$wgServer           = "http://localhost";
 
 ## The relative URL path to the skins directory
 $wgStylePath        = "$wgScriptPath/skins";
@@ -53,8 +53,8 @@ $wgEmailAuthentication = true;
 $wgDBtype           = "mysql";
 $wgDBserver         = "localhost";
 $wgDBname           = "toyhouse";
-$wgDBuser           = "root";
-$wgDBpassword       = "RUNrun,pantaovay";
+$wgDBuser           = "iedb";
+$wgDBpassword       = "iedb";
 
 # MySQL specific settings
 $wgDBprefix         = "wiki_";
