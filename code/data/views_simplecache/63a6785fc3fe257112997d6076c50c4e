@@ -548,16 +548,16 @@ input[type="radio"] {
 	z-index:1;
 }
 .friends-picker-navigation-l {
-	background: url("http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/friendspicker.png") no-repeat left top;
+	background: url("http://localhost/elgg/_graphics/friendspicker.png") no-repeat left top;
 }
 .friends-picker-navigation-r {
-	background: url("http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/friendspicker.png") no-repeat -60px top;
+	background: url("http://localhost/elgg/_graphics/friendspicker.png") no-repeat -60px top;
 }
 .friends-picker-navigation-l:hover {
-	background: url("http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/friendspicker.png") no-repeat left -44px;
+	background: url("http://localhost/elgg/_graphics/friendspicker.png") no-repeat left -44px;
 }
 .friends-picker-navigation-r:hover {
-	background: url("http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/friendspicker.png") no-repeat -60px -44px;
+	background: url("http://localhost/elgg/_graphics/friendspicker.png") no-repeat -60px -44px;
 }
 .friendspicker-savebuttons .elgg-button-submit,
 .friendspicker-savebuttons .elgg-button-cancel {
@@ -740,14 +740,14 @@ a.elgg-button {
 	text-shadow: 1px 1px 0px black;
 	text-decoration: none;
 	border: 1px solid #4690d6;
-	background: #4690d6 url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_graduation.png) repeat-x left 10px;
+	background: #4690d6 url(http://localhost/elgg/_graphics/button_graduation.png) repeat-x left 10px;
 }
 
 .elgg-button-submit:hover {
 	border-color: #0054a7;
 	text-decoration: none;
 	color: white;
-	background: #0054a7 url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_graduation.png) repeat-x left 10px;
+	background: #0054a7 url(http://localhost/elgg/_graphics/button_graduation.png) repeat-x left 10px;
 }
 
 .elgg-button-submit.elgg-state-disabled {
@@ -759,7 +759,7 @@ a.elgg-button {
 /* Cancel: This button should convey a negative but easily reversible action (e.g., turning off a plugin) */
 .elgg-button-cancel {
 	color: #333;
-	background: #ddd url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_graduation.png) repeat-x left 10px;
+	background: #ddd url(http://localhost/elgg/_graphics/button_graduation.png) repeat-x left 10px;
 	border: 1px solid #999;
 }
 .elgg-button-cancel:hover {
@@ -771,7 +771,7 @@ a.elgg-button {
 
 /* Action: This button should convey a normal, inconsequential action, such as clicking a link */
 .elgg-button-action {
-	background: #ccc url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_background.gif) repeat-x 0 0;
+	background: #ccc url(http://localhost/elgg/_graphics/button_background.gif) repeat-x 0 0;
 	border:1px solid #999;
 	color: #333;
 	padding: 2px 15px;
@@ -792,7 +792,7 @@ a.elgg-button {
 
 .elgg-button-action:hover,
 .elgg-button-action:focus {
-	background: #ccc url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_background.gif) repeat-x 0 -15px;
+	background: #ccc url(http://localhost/elgg/_graphics/button_background.gif) repeat-x 0 -15px;
 	color: #111;
 	text-decoration: none;
 	border: 1px solid #999;
@@ -803,7 +803,7 @@ a.elgg-button {
 	color: #bbb;
 	text-decoration: none;
 	border: 1px solid #333;
-	background: #555 url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/button_graduation.png) repeat-x left 10px;
+	background: #555 url(http://localhost/elgg/_graphics/button_graduation.png) repeat-x left 10px;
 	text-shadow: 1px 1px 0px black;
 }
 .elgg-button-delete:hover {
@@ -831,7 +831,7 @@ a.elgg-button {
 	-moz-box-shadow: 0 0 0;
 	box-shadow: 0 0 0;
 	
-	/*background-image:url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/elgg_sprites.png);
+	/*background-image:url(http://localhost/elgg/_graphics/elgg_sprites.png);
 	background-position:-150px -51px;
 	background-repeat:no-repeat;*/
 }
@@ -862,7 +862,7 @@ a.elgg-button {
 *************************************** */
 
 .elgg-icon {
-	background: transparent url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/elgg_sprites.png) no-repeat left;
+	background: transparent url(http://localhost/elgg/_graphics/elgg_sprites.png) no-repeat left;
 	width: 16px;
 	height: 16px;
 	margin: 0 2px;
@@ -1136,7 +1136,7 @@ a.elgg-button {
 }
 
 .elgg-ajax-loader {
-	background: white url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/ajax_loader_bw.gif) no-repeat center center;
+	background: white url(http://localhost/elgg/_graphics/ajax_loader_bw.gif) no-repeat center center;
 	min-height: 31px;
 	min-width: 31px;
 }
@@ -2235,7 +2235,7 @@ a.elgg-widget-collapsed:before {
 
 /***** TOPBAR ******/
 .elgg-page-topbar {
-	background: #333333 url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/toptoolbar_background.gif) repeat-x top left;
+	background: #333333 url(http://localhost/elgg/_graphics/toptoolbar_background.gif) repeat-x top left;
 	border-bottom: 1px solid #000000;
 	position: relative;
 	height: 24px;
@@ -2263,7 +2263,7 @@ a.elgg-widget-collapsed:before {
 /***** PAGE HEADER ******/
 .elgg-page-header {
 	position: relative;
-	background: #4690D6 url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/header_shadow.png) repeat-x bottom left;
+	background: #4690D6 url(http://localhost/elgg/_graphics/header_shadow.png) repeat-x bottom left;
 }
 .elgg-page-header > .elgg-inner {
 	position: relative;
@@ -2274,10 +2274,10 @@ a.elgg-widget-collapsed:before {
 	min-height: 360px;
 }
 .elgg-layout-one-sidebar {
-	background: transparent url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/sidebar_background.gif) repeat-y right top;
+	background: transparent url(http://localhost/elgg/_graphics/sidebar_background.gif) repeat-y right top;
 }
 .elgg-layout-two-sidebar {
-	background: transparent url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/two_sidebar_background.gif) repeat-y right top;
+	background: transparent url(http://localhost/elgg/_graphics/two_sidebar_background.gif) repeat-y right top;
 }
 .elgg-layout-error {
 	margin-top: 20px;
@@ -2619,7 +2619,7 @@ form#blog-post-edit #description_parent #description_ifr {
 	height:400px !important;
 }
 .elgg-icon-bookmark {
-	background: transparent url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/bookmarks/graphics/bookmark.gif);
+	background: transparent url(http://localhost/elgg/mod/bookmarks/graphics/bookmark.gif);
 }.file-photo {
 	text-align: center;
 	margin-bottom: 15px;
@@ -2809,16 +2809,16 @@ form#blog-post-edit #description_parent #description_ifr {
 	outline: none;
 }
 #notificationstable td.emailtogglefield a.emailtoggleOff {
-	background: url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/notifications/graphics/icon_notifications_email.gif) no-repeat right 2px;
+	background: url(http://localhost/elgg/mod/notifications/graphics/icon_notifications_email.gif) no-repeat right 2px;
 }
 #notificationstable td.emailtogglefield a.emailtoggleOn {
-	background: url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/notifications/graphics/icon_notifications_email.gif) no-repeat right -36px;
+	background: url(http://localhost/elgg/mod/notifications/graphics/icon_notifications_email.gif) no-repeat right -36px;
 }
 #notificationstable td.sitetogglefield a.sitetoggleOff {
-	background: url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/notifications/graphics/icon_notifications_site.gif) no-repeat right 2px;
+	background: url(http://localhost/elgg/mod/notifications/graphics/icon_notifications_site.gif) no-repeat right 2px;
 }
 #notificationstable td.sitetogglefield a.sitetoggleOn {
-	background: url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/notifications/graphics/icon_notifications_site.gif) no-repeat right -37px;
+	background: url(http://localhost/elgg/mod/notifications/graphics/icon_notifications_site.gif) no-repeat right -37px;
 }
 .notification_friends,
 .notification_personal,
@@ -2841,7 +2841,7 @@ form#blog-post-edit #description_parent #description_ifr {
 	color: #0054a7;
 }/* Reported Content */
 .elgg-icon-report-this {
-	background: url(http://toyhouse.ie.tsinghua.edu.cn/elgg/mod/reportedcontent/graphics/icon_reportthis.gif) no-repeat left top;
+	background: url(http://localhost/elgg/mod/reportedcontent/graphics/icon_reportthis.gif) no-repeat left top;
 }
 
 /**********************************
@@ -2869,7 +2869,7 @@ Search plugin
 	font-size: 12px;
 	font-weight: bold;
 	padding: 2px 4px 2px 26px;
-	background: transparent url(http://toyhouse.ie.tsinghua.edu.cn/elgg/_graphics/elgg_sprites.png) no-repeat 2px -934px;
+	background: transparent url(http://localhost/elgg/_graphics/elgg_sprites.png) no-repeat 2px -934px;
 }
 .elgg-search input[type=text]:focus, .elgg-search input[type=text]:active {
 	background-color: white;
