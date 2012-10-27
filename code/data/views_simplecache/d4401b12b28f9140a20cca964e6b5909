@@ -2222,7 +2222,7 @@ elgg.register_hook_handler('init', 'system', elgg.ui.widgets.init);
 
 elgg.version = '2012071100';
 elgg.release = '1.8.8';
-elgg.config.wwwroot = 'http://toyhouse.ie.tsinghua.edu.cn/elgg/';
+elgg.config.wwwroot = 'http://localhost/elgg/';
 elgg.security.interval = 5 * 60 * 1000; elgg.config.domReady = false;
 elgg.config.language = 'en';
 elgg.config.languageReady = false;

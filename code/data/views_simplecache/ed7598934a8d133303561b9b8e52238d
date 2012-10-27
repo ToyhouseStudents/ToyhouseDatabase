@@ -58,7 +58,7 @@ elgg.thewire.viewPrevious = function(event) {
 		$link.attr("title", "Hide previous post");
 		
 		$.ajax({type: "GET",
-			url: "http://toyhouse.ie.tsinghua.edu.cn/elgg/ajax/view/thewire/previous",
+			url: "http://localhost/elgg/ajax/view/thewire/previous",
 			dataType: "html",
 			cache: false,
 			data: {guid: postGuid},
