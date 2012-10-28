@@ -11,3 +11,7 @@ code run well on the server. In a word, it should be fully tested before uploade
 # Notes
 Please make sure that you upgrade your local repo before you modify code or docs. Or you maybe have to face the conflict problem
 which is nightmare I promise.
+
+# Run Locally
+
+https://github.com/ToyhouseChina/ToyhouseDatabase/tree/master/htdocs
