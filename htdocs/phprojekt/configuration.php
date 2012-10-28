@@ -28,16 +28,16 @@ language = "en"
 ;;;;;;;;;
 
 ; Path where will be placed files uploaded by the user.
-uploadPath = "..\phprojekt_private\upload/"
+uploadPath = "../../phprojekt_private/upload/"
 
 ; Path where will be placed temporaly files.
-tmpPath = "..\phprojekt_private\tmp/"
+tmpPath = "../../phprojekt_private/tmp/"
 
 ; Path where will be placed modules created by the admin.
-applicationPath = "..\phprojekt_private\application/"
+applicationPath = "../../phprojekt_private/application/"
 
 ; Path where webdav resides
-webdavPath = "..\phprojekt_private\webdav/"
+webdavPath = "../../phprojekt_private/webdav/"
 
 ;;;;;;;;;;;;
 ; DATABASE ;
@@ -66,14 +66,14 @@ database.params.charset = "utf8"
 
 ; Here will be logged things explicitly declared.
 ; E.G.: (PHP) Phprojekt::getInstance()->getLog()->debug("String to be logged");
-log.debug.filename = "..\phprojekt_private\logs/debug.log"
+log.debug.filename = "../../phprojekt_private/logs/debug.log"
 
 
 ; This is another type of logging.
 ; E.G.: (PHP) Phprojekt::getInstance()->getLog()->err("String to be logged");
 ; Note for developers: there are many different type of logs defined that can be
 ; added here, see the complete list in phprojekt/library/Phprojekt/Log.php
-log.err.filename = "..\phprojekt_private\logs/err.log"
+log.err.filename = "../../phprojekt_private/logs/err.log"
 
 ; If this is enabled, a stack trace will be logged for every logged message
 log.printStackTraces = false
@@ -207,9 +207,9 @@ authentication.integration.timeZone = '0000002'
 ; If you are not an expert in LDAP configurations, please
 ; consult the following references.
 ; LDAP configuration vars explainded at:
-; http://framework.zend.com/manual/en/zend.ldap.api.html
+; http:/framework.zend.com/manual/en/zend.ldap.api.html
 ; Example at:
-; http://framework.zend.com/manual/en/zend.auth.adapter.ldap.html
+; http:/framework.zend.com/manual/en/zend.auth.adapter.ldap.html
 
 ; authentication.ldap.server1.host                   = "ldaphost"
 ; authentication.ldap.server1.port                   = 389
