@@ -1,4 +1,4 @@
-a:14:{s:7:"Default";a:239:{s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:5:"Users";s:5:"Users";s:7:"Contact";s:7:"Contact";s:8:"Contacts";s:8:"Contacts";s:3:"Tag";s:3:"Tag";s:2:"No";s:2:"No";s:3:"Yes";s:3:"Yes";s:5:"Count";s:5:"Count";s:13:"With selected";s:13:"With selected";s:6:"Export";s:6:"Export";s:9:"Check All";s:9:"Check All";s:11:"Uncheck All";s:11:"Uncheck All";s:6:"ItemId";s:4:"Item";s:5:"Field";s:5:"Field";s:9:"Old value";s:9:"Old value";s:9:"New value";s:9:"New value";s:14:"Search results";s:14:"Search results";s:11:"Tag results";s:11:"Tag results";s:4:"Help";s:4:"Help";s:6:"Logout";s:6:"Logout";s:4:"Tags";s:4:"Tags";s:19:"Include Subprojects";s:19:"Include Subprojects";s:6:"Access";s:6:"Access";s:12:"Notification";s:12:"Notification";s:7:"History";s:7:"History";s:4:"Read";s:4:"Read";s:5:"Write";s:5:"Write";s:6:"Create";s:6:"Create";s:4:"Copy";s:4:"Copy";s:8:"Download";s:8:"Download";s:5:"Admin";s:5:"Admin";s:4:"None";s:4:"None";s:6:"Action";s:6:"Action";s:3:"Add";s:3:"Add";s:4:"Save";s:4:"Save";s:6:"Delete";s:6:"Delete";s:6:"Cancel";s:6:"Cancel";s:5:"Close";s:5:"Close";s:4:"Edit";s:4:"Edit";s:3:"New";s:3:"New";s:25:"Disable Frontend Messages";s:30:"Disable all Frontend Messages!";s:2:"OK";s:2:"OK";s:5:"Reset";s:5:"Reset";s:13:"Export to CSV";s:13:"Export to CSV";s:14:"Add a new item";s:14:"Add a new item";s:37:"Open this item in the form to edit it";s:37:"Open this item in the form to edit it";s:20:"Double click to edit";s:20:"Double click to edit";s:12:"To Text Mode";s:12:"To Text Mode";s:12:"To HTML Mode";s:12:"To HTML Mode";s:18:"User not logged in";s:18:"User not logged in";s:39:"Missing arguments in setParams function";s:39:"Missing arguments in setParams function";s:34:"There are no entries on this level";s:34:"There are no entries on this level";s:17:"There are no Tags";s:17:"There are no Tags";s:40:"You do not have access to edit this item";s:40:"You do not have access to edit this item";s:28:"The Item was added correctly";s:28:"The Item was added correctly";s:29:"The Item was edited correctly";s:29:"The Item was edited correctly";s:31:"The Items were edited correctly";s:31:"The Items were edited correctly";s:25:"The Item can't be deleted";s:25:"The Item can't be deleted";s:30:"The Item was deleted correctly";s:30:"The Item was deleted correctly";s:32:"The Items were deleted correctly";s:32:"The Items were deleted correctly";s:19:"Is a required field";s:19:"Is a required field";s:18:"Value out of range";s:18:"Value out of range";s:23:"Invalid format for date";s:23:"Invalid format for date";s:14:"Invalid Format";s:14:"Invalid Format";s:29:"The Tags were added correctly";s:29:"The Tags were added correctly";s:31:"The Tags were deleted correctly";s:31:"The Tags were deleted correctly";s:22:"The Item was not found";s:22:"The Item was not found";s:52:"You do not have write access into the parent project";s:52:"You do not have write access into the parent project";s:60:"You do not have access to add projects on the parent project";s:60:"You do not have access to add projects on the parent project";s:50:"The parent project do not have enabled this module";s:50:"The parent project do not have enabled this module";s:41:"The project can not be saved under itself";s:41:"The project can not be saved under itself";s:47:"The project can not be saved under its children";s:47:"The project can not be saved under its children";s:21:"ID parameter required";s:21:"ID parameter required";s:26:"Node Id parameter required";s:26:"Node Id parameter required";s:22:"Invalid module or item";s:22:"Invalid module or item";s:22:"Two arguments expected";s:22:"Two arguments expected";s:37:"Second parameter needs to be an array";s:37:"Second parameter needs to be an array";s:42:"No parent id found in parameters or passed";s:42:"No parent id found in parameters or passed";s:17:"No help available";s:17:"No help available";s:40:"You do not have access to do this action";s:40:"You do not have access to do this action";s:18:"Internal exception";s:18:"Internal exception";s:57:"Please contact the administrator and check the error logs";s:57:"Please contact the administrator and check the error logs";s:19:"Invalid json format";s:19:"Invalid json format";s:10:"User error";s:10:"User error";s:25:"Internal javascript error";s:25:"Internal javascript error";s:19:"Server unreachable!";s:19:"Server unreachable!";s:16:"Unexpected error";s:16:"Unexpected error";s:33:"Maximum length exceeded for field";s:33:"Maximum length exceeded for field";s:49:"File 'uploadedFile' exceeds the defined form size";s:33:"File exceeds maximum allowed size";s:55:"You don't have permission for downloading on this item.";s:55:"You don't have permission for downloading on this item.";s:50:"You don't have permission for modifying this item.";s:50:"You don't have permission for modifying this item.";s:58:"Error in received parameter, consult the admin. Parameter:";s:58:"Error in received parameter, consult the admin. Parameter:";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:16:"Support address:";s:16:"Support address:";s:14:"Invalid string";s:14:"Invalid string";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:40:"All settings were disabled successfully!";s:40:"All settings were disabled successfully!";s:26:"No settings were disabled!";s:26:"No settings were disabled!";s:35:"You can not delete the root project";s:35:"You can not delete the root project";s:30:"The model argument is expected";s:30:"The model argument is expected";s:12:"Confirmation";s:12:"Confirmation";s:32:"Are you sure you want to delete?";s:32:"Are you sure you want to delete?";s:36:"Please confirm the following action:";s:36:"Please confirm the following action:";s:13:"rows selected";s:13:"rows selected";s:6:"Period";s:6:"Period";s:37:"End date can not be before Start date";s:37:"End date can not be before Start date";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:70:"Error message intentionally generated by a programmer (trigger_error).";s:56:"Error message generated by a programmer (trigger_error).";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:19:"Unknown error type.";s:19:"Unknown error type.";s:8:"View all";s:8:"View all";s:20:"There are no Results";s:20:"There are no Results";s:17:"Send Notification";s:17:"Send Notification";s:1:"A";s:1:"A";s:13:"item has been";s:13:"item has been";s:8:"modified";s:8:"modified";s:7:"created";s:7:"created";s:12:"Current data";s:12:"Current data";s:12:"Changes done";s:12:"Changes done";s:64:"Check this box to send an email notification to the participants";s:64:"Check this box to send an email notification to the participants";s:6:"Monday";s:6:"Monday";s:7:"Tuesday";s:7:"Tuesday";s:9:"Wednesday";s:9:"Wednesday";s:8:"Thursday";s:8:"Thursday";s:6:"Friday";s:6:"Friday";s:8:"Saturday";s:8:"Saturday";s:6:"Sunday";s:6:"Sunday";s:7:"January";s:7:"January";s:8:"February";s:8:"February";s:5:"March";s:5:"March";s:5:"April";s:5:"April";s:3:"May";s:3:"May";s:4:"June";s:4:"June";s:4:"July";s:4:"July";s:6:"August";s:6:"August";s:9:"September";s:9:"September";s:7:"October";s:7:"October";s:8:"November";s:8:"November";s:8:"December";s:8:"December";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:6:"Active";s:6:"Active";s:8:"Inactive";s:8:"Inactive";s:7:"Filters";s:7:"Filters";s:10:"Delete all";s:10:"Delete all";s:12:"Add a filter";s:12:"Add a filter";s:57:"Please, delete some filters for get a correct result set.";s:57:"Please, delete some filters for get a correct result set.";s:17:"Filter_equal_rule";s:5:"Equal";s:21:"Filter_not_equal_rule";s:9:"Not equal";s:17:"Filter_major_rule";s:5:"Major";s:23:"Filter_major_equal_rule";s:11:"Major equal";s:17:"Filter_minor_rule";s:5:"Minor";s:23:"Filter_minor_equal_rule";s:11:"Minor equal";s:16:"Filter_like_rule";s:4:"Like";s:20:"Filter_not_like_rule";s:8:"Not like";s:18:"Filter_begins_rule";s:6:"Begins";s:16:"Filter_ends_rule";s:4:"Ends";s:10:"Filter_AND";s:3:"AND";s:9:"Filter_OR";s:2:"OR";s:25:"has created the new entry";s:25:"has created the new entry";s:21:"has deleted the entry";s:21:"has deleted the entry";s:31:"has modified the existing entry";s:31:"has modified the existing entry";s:13:"has logged in";s:13:"has logged in";s:14:"has logged out";s:14:"has logged out";s:20:"Your event starts at";s:20:"Your event starts at";s:34:"has executed a not defined process";s:34:"has executed a not defined process";s:10:"in Project";s:10:"in Project";s:4:"Text";s:4:"Text";s:4:"Date";s:4:"Date";s:4:"Time";s:4:"Time";s:8:"Datetime";s:8:"Datetime";s:6:"Select";s:6:"Select";s:8:"Checkbox";s:8:"Checkbox";s:10:"Percentage";s:10:"Percentage";s:6:"Rating";s:6:"Rating";s:8:"Textarea";s:8:"Textarea";s:6:"Upload";s:6:"Upload";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:4:"Hour";s:4:"Hour";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:10:"Start time";s:10:"Start time";s:8:"End time";s:8:"End time";s:5:"Notes";s:5:"Notes";s:8:"Comments";s:8:"Comments";s:7:"Comment";s:7:"Comment";s:4:"Name";s:4:"Name";s:8:"Username";s:8:"Username";s:8:"Password";s:8:"Password";s:10:"First name";s:10:"First name";s:9:"Last name";s:9:"Last name";s:5:"Email";s:5:"Email";s:6:"E-Mail";s:6:"E-Mail";s:8:"Language";s:8:"Language";s:9:"Time zone";s:9:"Time zone";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:5:"Title";s:5:"Title";s:6:"Parent";s:6:"Parent";s:4:"Type";s:4:"Type";s:6:"Status";s:6:"Status";s:14:"Current status";s:14:"Current status";s:7:"Percent";s:10:"Percentage";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:8:"Priority";s:8:"Priority";s:8:"Category";s:8:"Category";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Amount";s:6:"Amount";s:7:"Private";s:7:"Private";s:12:"Content Help";a:5:{s:7:"General";s:5657:"<br />
+a:14:{s:7:"Default";a:239:{s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:5:"Users";s:5:"Users";s:7:"Contact";s:7:"Contact";s:8:"Contacts";s:8:"Contacts";s:3:"Tag";s:3:"Tag";s:2:"No";s:2:"No";s:3:"Yes";s:3:"Yes";s:5:"Count";s:5:"Count";s:13:"With selected";s:13:"With selected";s:6:"Export";s:6:"Export";s:9:"Check All";s:9:"Check All";s:11:"Uncheck All";s:11:"Uncheck All";s:6:"ItemId";s:4:"Item";s:5:"Field";s:5:"Field";s:9:"Old value";s:9:"Old value";s:9:"New value";s:9:"New value";s:14:"Search results";s:14:"Search results";s:11:"Tag results";s:11:"Tag results";s:4:"Help";s:4:"Help";s:6:"Logout";s:6:"Logout";s:4:"Tags";s:4:"Tags";s:19:"Include Subprojects";s:19:"Include Subprojects";s:6:"Access";s:6:"Access";s:12:"Notification";s:12:"Notification";s:7:"History";s:7:"History";s:4:"Read";s:4:"Read";s:5:"Write";s:5:"Write";s:6:"Create";s:6:"Create";s:4:"Copy";s:4:"Copy";s:8:"Download";s:8:"Download";s:5:"Admin";s:5:"Admin";s:4:"None";s:4:"None";s:6:"Action";s:6:"Action";s:3:"Add";s:3:"Add";s:4:"Save";s:4:"Save";s:6:"Delete";s:6:"Delete";s:6:"Cancel";s:6:"Cancel";s:5:"Close";s:5:"Close";s:4:"Edit";s:4:"Edit";s:3:"New";s:3:"New";s:25:"Disable Frontend Messages";s:30:"Disable all Frontend Messages!";s:2:"OK";s:2:"OK";s:5:"Reset";s:5:"Reset";s:13:"Export to CSV";s:13:"Export to CSV";s:14:"Add a new item";s:14:"Add a new item";s:37:"Open this item in the form to edit it";s:37:"Open this item in the form to edit it";s:20:"Double click to edit";s:20:"Double click to edit";s:12:"To Text Mode";s:12:"To Text Mode";s:12:"To HTML Mode";s:12:"To HTML Mode";s:18:"User not logged in";s:18:"User not logged in";s:39:"Missing arguments in setParams function";s:39:"Missing arguments in setParams function";s:34:"There are no entries on this level";s:34:"There are no entries on this level";s:17:"There are no Tags";s:17:"There are no Tags";s:40:"You do not have access to edit this item";s:40:"You do not have access to edit this item";s:28:"The Item was added correctly";s:28:"The Item was added correctly";s:29:"The Item was edited correctly";s:29:"The Item was edited correctly";s:31:"The Items were edited correctly";s:31:"The Items were edited correctly";s:25:"The Item can't be deleted";s:25:"The Item can't be deleted";s:30:"The Item was deleted correctly";s:30:"The Item was deleted correctly";s:32:"The Items were deleted correctly";s:32:"The Items were deleted correctly";s:19:"Is a required field";s:19:"Is a required field";s:18:"Value out of range";s:18:"Value out of range";s:23:"Invalid format for date";s:23:"Invalid format for date";s:14:"Invalid Format";s:14:"Invalid Format";s:29:"The Tags were added correctly";s:29:"The Tags were added correctly";s:31:"The Tags were deleted correctly";s:31:"The Tags were deleted correctly";s:22:"The Item was not found";s:22:"The Item was not found";s:52:"You do not have write access into the parent project";s:52:"You do not have write access into the parent project";s:60:"You do not have access to add projects on the parent project";s:60:"You do not have access to add projects on the parent project";s:50:"The parent project do not have enabled this module";s:50:"The parent project do not have enabled this module";s:41:"The project can not be saved under itself";s:41:"The project can not be saved under itself";s:47:"The project can not be saved under its children";s:47:"The project can not be saved under its children";s:21:"ID parameter required";s:21:"ID parameter required";s:26:"Node Id parameter required";s:26:"Node Id parameter required";s:22:"Invalid module or item";s:22:"Invalid module or item";s:22:"Two arguments expected";s:22:"Two arguments expected";s:37:"Second parameter needs to be an array";s:37:"Second parameter needs to be an array";s:42:"No parent id found in parameters or passed";s:42:"No parent id found in parameters or passed";s:17:"No help available";s:17:"No help available";s:40:"You do not have access to do this action";s:40:"You do not have access to do this action";s:18:"Internal exception";s:18:"Internal exception";s:57:"Please contact the administrator and check the error logs";s:57:"Please contact the administrator and check the error logs";s:19:"Invalid json format";s:19:"Invalid json format";s:10:"User error";s:10:"User error";s:25:"Internal javascript error";s:25:"Internal javascript error";s:19:"Server unreachable!";s:19:"Server unreachable!";s:16:"Unexpected error";s:16:"Unexpected error";s:33:"Maximum length exceeded for field";s:33:"Maximum length exceeded for field";s:49:"File 'uploadedFile' exceeds the defined form size";s:33:"File exceeds maximum allowed size";s:55:"You don't have permission for downloading on this item.";s:55:"You don't have permission for downloading on this item.";s:50:"You don't have permission for modifying this item.";s:50:"You don't have permission for modifying this item.";s:58:"Error in received parameter, consult the admin. Parameter:";s:58:"Error in received parameter, consult the admin. Parameter:";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:74:"If you have problems or questions with PHProjekt, please write an email to";s:16:"Support address:";s:16:"Support address:";s:14:"Invalid string";s:14:"Invalid string";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:71:"Allowed values are: Letters, numbers, space, dash, underscore and colon";s:40:"All settings were disabled successfully!";s:40:"All settings were disabled successfully!";s:26:"No settings were disabled!";s:26:"No settings were disabled!";s:35:"You can not delete the root project";s:35:"You can not delete the root project";s:30:"The model argument is expected";s:30:"The model argument is expected";s:12:"Confirmation";s:12:"Confirmation";s:32:"Are you sure you want to delete?";s:32:"Are you sure you want to delete?";s:36:"Please confirm the following action:";s:36:"Please confirm the following action:";s:13:"rows selected";s:13:"rows selected";s:6:"Period";s:6:"Period";s:37:"End date can not be before Start date";s:37:"End date can not be before Start date";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:143:"Run-time notice. The script encountered something that could indicate an error, but could also happen in the normal course of running a script.";s:70:"Error message intentionally generated by a programmer (trigger_error).";s:56:"Error message generated by a programmer (trigger_error).";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:58:"Catchable fatal error. Probably a dangerous error occured.";s:19:"Unknown error type.";s:19:"Unknown error type.";s:8:"View all";s:8:"View all";s:20:"There are no Results";s:20:"There are no Results";s:17:"Send Notification";s:17:"Send Notification";s:1:"A";s:1:"A";s:13:"item has been";s:13:"item has been";s:8:"modified";s:8:"modified";s:7:"created";s:7:"created";s:12:"Current data";s:12:"Current data";s:12:"Changes done";s:12:"Changes done";s:64:"Check this box to send an email notification to the participants";s:64:"Check this box to send an email notification to the participants";s:6:"Monday";s:6:"Monday";s:7:"Tuesday";s:7:"Tuesday";s:9:"Wednesday";s:9:"Wednesday";s:8:"Thursday";s:8:"Thursday";s:6:"Friday";s:6:"Friday";s:8:"Saturday";s:8:"Saturday";s:6:"Sunday";s:6:"Sunday";s:7:"January";s:7:"January";s:8:"February";s:8:"February";s:5:"March";s:5:"March";s:5:"April";s:5:"April";s:3:"May";s:3:"May";s:4:"June";s:4:"June";s:4:"July";s:4:"July";s:6:"August";s:6:"August";s:9:"September";s:9:"September";s:7:"October";s:7:"October";s:8:"November";s:8:"November";s:8:"December";s:8:"December";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:6:"Active";s:6:"Active";s:8:"Inactive";s:8:"Inactive";s:7:"Filters";s:7:"Filters";s:10:"Delete all";s:10:"Delete all";s:12:"Add a filter";s:12:"Add a filter";s:57:"Please, delete some filters for get a correct result set.";s:57:"Please, delete some filters for get a correct result set.";s:17:"Filter_equal_rule";s:5:"Equal";s:21:"Filter_not_equal_rule";s:9:"Not equal";s:17:"Filter_major_rule";s:5:"Major";s:23:"Filter_major_equal_rule";s:11:"Major equal";s:17:"Filter_minor_rule";s:5:"Minor";s:23:"Filter_minor_equal_rule";s:11:"Minor equal";s:16:"Filter_like_rule";s:4:"Like";s:20:"Filter_not_like_rule";s:8:"Not like";s:18:"Filter_begins_rule";s:6:"Begins";s:16:"Filter_ends_rule";s:4:"Ends";s:10:"Filter_AND";s:3:"AND";s:9:"Filter_OR";s:2:"OR";s:25:"has created the new entry";s:25:"has created the new entry";s:21:"has deleted the entry";s:21:"has deleted the entry";s:31:"has modified the existing entry";s:31:"has modified the existing entry";s:13:"has logged in";s:13:"has logged in";s:14:"has logged out";s:14:"has logged out";s:20:"Your event starts at";s:20:"Your event starts at";s:34:"has executed a not defined process";s:34:"has executed a not defined process";s:10:"in Project";s:10:"in Project";s:4:"Text";s:4:"Text";s:4:"Date";s:4:"Date";s:4:"Time";s:4:"Time";s:8:"Datetime";s:8:"Datetime";s:6:"Select";s:6:"Select";s:8:"Checkbox";s:8:"Checkbox";s:10:"Percentage";s:10:"Percentage";s:6:"Rating";s:6:"Rating";s:8:"Textarea";s:8:"Textarea";s:6:"Upload";s:6:"Upload";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:4:"Hour";s:4:"Hour";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:10:"Start time";s:10:"Start time";s:8:"End time";s:8:"End time";s:5:"Notes";s:5:"Notes";s:8:"Comments";s:8:"Comments";s:7:"Comment";s:7:"Comment";s:4:"Name";s:4:"Name";s:8:"Username";s:8:"Username";s:8:"Password";s:8:"Password";s:10:"First name";s:10:"First name";s:9:"Last name";s:9:"Last name";s:5:"Email";s:5:"Email";s:6:"E-Mail";s:6:"E-Mail";s:8:"Language";s:8:"Language";s:9:"Time zone";s:9:"Time zone";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:5:"Title";s:5:"Title";s:6:"Parent";s:6:"Parent";s:4:"Type";s:4:"Type";s:6:"Status";s:6:"Status";s:14:"Current status";s:14:"Current status";s:7:"Percent";s:10:"Percentage";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:8:"Priority";s:8:"Priority";s:8:"Category";s:8:"Category";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Amount";s:6:"Amount";s:7:"Private";s:7:"Private";s:12:"Content Help";a:5:{s:7:"General";s:5773:"<br />
     This is the <b>General Help</b><br />
     <br />
     The Phprojekt screen is divided into many sections:<br />
@@ -114,13 +114,13 @@ a:14:{s:7:"Default";a:239:{s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Proj
         </ol>
     </ul>
     <br />
-    <br />";s:10:"Basic data";s:221:"<br />
+    <br />";s:10:"Basic data";s:227:"<br />
     <b>Basic data tab</b><br />
     <br />
     Inside this tab it goes the main information about an item.<br />
     It has several fields to fill, according to the module it belongs to.<br />
     <br />
-    <br />";s:6:"Access";s:1689:"<br />
+    <br />";s:6:"Access";s:1718:"<br />
     <b>Access tab</b><br />
     <br />
     Here the individual rights for each item are defined.<br />
@@ -149,27 +149,27 @@ a:14:{s:7:"Default";a:239:{s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Proj
     <br />
     Note: the owner (creator) of the item has by default all the permissions.<br />
     <br />
-    <br />";s:12:"Notification";s:385:"<br />
+    <br />";s:12:"Notification";s:392:"<br />
     <b>Notification tab</b><br />
     <br />
     This tab makes possible to send an automatic email notification to all the users with read access to the current
     item, or the users that the current module has defined according its own criteria. That email will tell them about
     the creation or modification of the item giving details about it.<br />
     <br />
-    <br />";s:7:"History";s:231:"<br />
+    <br />";s:7:"History";s:235:"<br />
     <b>History tab</b><br />
     <br />
     It shows a listing of the changes made to the item since its creation.<br />
-    It has five columns: <i>date</i>, <i>user</i>, <i>field</i>, <i>old value</i> and <i>new value</i>.";}s:15:"Tutorial Header";s:150:"    <p>
+    It has five columns: <i>date</i>, <i>user</i>, <i>field</i>, <i>old value</i> and <i>new value</i>.";}s:15:"Tutorial Header";s:153:"    <p>
 This tutorial will guide you through the basic features of PHProjekt.</br>
 Click the tabs to go through the elements of the tutorial.
-    </p>";s:8:"The Tree";s:8:"The Tree";s:18:"Tree tutorial text";s:378:"<h3>The Tree</h3>
+    </p>";s:8:"The Tree";s:8:"The Tree";s:18:"Tree tutorial text";s:384:"<h3>The Tree</h3>
 <p>
 The tree is the main way to navigate around your projects in PHProjekt 6.
 Inside the tree you can find all projects that you are currently allowed to see.
 To get to the root node of the tree, just click the PHProjekt logo in the top left corner.
 You can expand and collapse subprojects in the tree with the cross button on the left side of each label.
-</p>";s:8:"The Grid";s:8:"The Grid";s:18:"Grid tutorial text";s:848:"<h3>The Grid</h3>
+</p>";s:8:"The Grid";s:8:"The Grid";s:18:"Grid tutorial text";s:859:"<h3>The Grid</h3>
 <p>
 The grid is a more sophisticated way to navigate the child projects of a selected project.</br>
 Here you can see a summary of some of the data of each child project and edit the listed projects directly by double-clicking
@@ -180,7 +180,7 @@ On the left side of each row is a small checkbox which can be used to select mul
 together using the "with selected" dropdown menu at the bottom of the grid.</br>
 If the selected project has no child projects yet and you have the permission to create subprojects, the grid will
 only show you a message indicating that there are currently no subprojects and a button to create one.
-</p>";s:15:"Project Modules";s:15:"Project Modules";s:29:"Project Modules tutorial text";s:768:"<h3>Project Modules</h3>
+</p>";s:15:"Project Modules";s:15:"Project Modules";s:29:"Project Modules tutorial text";s:779:"<h3>Project Modules</h3>
 <p>
 Project modules are the core of the PHProjekt groupware.</br>
 Each module is associated with a project.</br>
@@ -191,13 +191,13 @@ the "Basic Data" tab. This tab contains a section "Module" where you can enable 
 selected projects.</br>
 It is possible to control the access to specific modules on a per user basis by creating appropriate roles in the
 administration section of PHProjekt and assigning the role to the user.
-</p>";s:14:"Global Modules";s:14:"Global Modules";s:28:"Global Modules tutorial text";s:425:"<h3>Global Modules</h3>
+</p>";s:14:"Global Modules";s:14:"Global Modules";s:28:"Global Modules tutorial text";s:431:"<h3>Global Modules</h3>
 <p>
 Unlinke project modules, global modules are not bound to a specific project but only exist once for any given user.</br>
 They are used for general tasks like timetracking, calendars, managing contacts, adjusting the user settings or,
 if you are an administrator, changing global PHProjekt settings like adding users and roles, modifying
 modules and changing the general company settings.</br>
-</p>";s:18:"Tags tutorial text";s:563:"<h3>Tags</h3>
+</p>";s:18:"Tags tutorial text";s:571:"<h3>Tags</h3>
 <p>
 Tags help you to easily find specific projects.</br>
 In the forms in the project modules it is possible to enter a comma separated list of tags that are associated with each item.</br>
@@ -205,14 +205,14 @@ As you add tags to projects, they will appear in the tags box in the bottom left
 When you click on one of the tag names in this box, PHProjekt will display a search window, listing all projects
 with the specified tags, grouped by module.</br>
 Using this feature it is very easy and fast to find projects that for example share a common topic.
-</p>";s:7:"Actions";s:7:"Actions";s:21:"Actions tutorial text";s:272:"<h3>Actions</h3>
+</p>";s:7:"Actions";s:7:"Actions";s:21:"Actions tutorial text";s:276:"<h3>Actions</h3>
 <p>
 Each module may provide you with a set of features like for example converting it's content to a csv format, adding new subitems or filter the contents of the grid.
 These actions are accessible through buttons right below the project module list.
-</p>";s:18:"Help tutorial text";s:165:"<h3>Help</h3>
+</p>";s:18:"Help tutorial text";s:168:"<h3>Help</h3>
 <p>
 To get further help with the provided features in PHProjekt or to take the tutorial again, just press the help button in the top right corner.
-</p>";}s:9:"Calendar2";a:72:{s:8:"Calendar";s:8:"Calendar";s:5:"Title";s:5:"Title";s:5:"Place";s:5:"Place";s:5:"Notes";s:5:"Notes";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:10:"Visibility";s:10:"Visibility";s:6:"Public";s:6:"Public";s:7:"Private";s:7:"Private";s:6:"Status";s:6:"Status";s:7:"Pending";s:7:"Pending";s:8:"Accepted";s:8:"Accepted";s:8:"Rejected";s:8:"Rejected";s:12:"Participants";s:12:"Participants";s:10:"Recurrence";s:10:"Recurrence";s:7:"Repeats";s:7:"Repeats";s:4:"None";s:4:"None";s:4:"Once";s:4:"Once";s:5:"Daily";s:5:"Daily";s:6:"Weekly";s:6:"Weekly";s:7:"Monthly";s:7:"Monthly";s:6:"Yearly";s:6:"Yearly";s:8:"Interval";s:8:"Interval";s:5:"Until";s:5:"Until";s:8:"Weekdays";s:8:"Weekdays";s:5:"Rrule";s:15:"Recurrence rule";s:25:"Wrong Recurrence Interval";s:25:"Wrong Recurrence Interval";s:33:"Incomplete Recurrence Until field";s:33:"Incomplete Recurrence Until field";s:14:"Event duration";s:14:"Event duration";s:53:"End date and time has to be after Start date and time";s:53:"End date and time has to be after Start date and time";s:37:"You have to select at least one user!";s:37:"You have to select at least one user!";s:21:"Edit repeating events";s:21:"Edit repeating events";s:23:"Delete repeating events";s:23:"Delete repeating events";s:25:"Edit just this occurrence";s:25:"Edit just this occurrence";s:27:"Delete just this occurrence";s:27:"Delete just this occurrence";s:20:"Edit all occurrences";s:20:"Edit all occurrences";s:22:"Delete all occurrences";s:22:"Delete all occurrences";s:23:"To whom will this apply";s:23:"To whom will this apply";s:16:"Edit just for me";s:16:"Edit just for me";s:25:"Edit for all participants";s:25:"Edit for all participants";s:18:"Delete just for me";s:18:"Delete just for me";s:27:"Delete for all participants";s:27:"Delete for all participants";s:11:"Change date";s:11:"Change date";s:5:"Today";s:5:"Today";s:4:"Self";s:4:"Self";s:9:"Selection";s:9:"Selection";s:14:"User selection";s:14:"User selection";s:4:"Done";s:4:"Done";s:4:"List";s:4:"List";s:3:"Day";s:3:"Day";s:4:"Week";s:4:"Week";s:5:"Month";s:5:"Month";s:13:"Calendar week";s:13:"Calendar week";s:14:"Further events";s:14:"Further events";s:31:"Select users for the group view";s:31:"Select users for the group view";s:48:"The interval for the option selected in Repeats.";s:48:"The interval for the option selected in Repeats.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:43:"The day the recurrence will stop happening.";s:43:"The day the recurrence will stop happening.";s:46:"The last event's day could not match this day.";s:46:"The last event's day could not match this day.";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Calendar";s:5019:"<br />
+</p>";}s:9:"Calendar2";a:72:{s:8:"Calendar";s:8:"Calendar";s:5:"Title";s:5:"Title";s:5:"Place";s:5:"Place";s:5:"Notes";s:5:"Notes";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:10:"Visibility";s:10:"Visibility";s:6:"Public";s:6:"Public";s:7:"Private";s:7:"Private";s:6:"Status";s:6:"Status";s:7:"Pending";s:7:"Pending";s:8:"Accepted";s:8:"Accepted";s:8:"Rejected";s:8:"Rejected";s:12:"Participants";s:12:"Participants";s:10:"Recurrence";s:10:"Recurrence";s:7:"Repeats";s:7:"Repeats";s:4:"None";s:4:"None";s:4:"Once";s:4:"Once";s:5:"Daily";s:5:"Daily";s:6:"Weekly";s:6:"Weekly";s:7:"Monthly";s:7:"Monthly";s:6:"Yearly";s:6:"Yearly";s:8:"Interval";s:8:"Interval";s:5:"Until";s:5:"Until";s:8:"Weekdays";s:8:"Weekdays";s:5:"Rrule";s:15:"Recurrence rule";s:25:"Wrong Recurrence Interval";s:25:"Wrong Recurrence Interval";s:33:"Incomplete Recurrence Until field";s:33:"Incomplete Recurrence Until field";s:14:"Event duration";s:14:"Event duration";s:53:"End date and time has to be after Start date and time";s:53:"End date and time has to be after Start date and time";s:37:"You have to select at least one user!";s:37:"You have to select at least one user!";s:21:"Edit repeating events";s:21:"Edit repeating events";s:23:"Delete repeating events";s:23:"Delete repeating events";s:25:"Edit just this occurrence";s:25:"Edit just this occurrence";s:27:"Delete just this occurrence";s:27:"Delete just this occurrence";s:20:"Edit all occurrences";s:20:"Edit all occurrences";s:22:"Delete all occurrences";s:22:"Delete all occurrences";s:23:"To whom will this apply";s:23:"To whom will this apply";s:16:"Edit just for me";s:16:"Edit just for me";s:25:"Edit for all participants";s:25:"Edit for all participants";s:18:"Delete just for me";s:18:"Delete just for me";s:27:"Delete for all participants";s:27:"Delete for all participants";s:11:"Change date";s:11:"Change date";s:5:"Today";s:5:"Today";s:4:"Self";s:4:"Self";s:9:"Selection";s:9:"Selection";s:14:"User selection";s:14:"User selection";s:4:"Done";s:4:"Done";s:4:"List";s:4:"List";s:3:"Day";s:3:"Day";s:4:"Week";s:4:"Week";s:5:"Month";s:5:"Month";s:13:"Calendar week";s:13:"Calendar week";s:14:"Further events";s:14:"Further events";s:31:"Select users for the group view";s:31:"Select users for the group view";s:48:"The interval for the option selected in Repeats.";s:48:"The interval for the option selected in Repeats.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:76:"E.g.: Repeats Weekly - Interval 2, that will create one event every 2 weeks.";s:43:"The day the recurrence will stop happening.";s:43:"The day the recurrence will stop happening.";s:46:"The last event's day could not match this day.";s:46:"The last event's day could not match this day.";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Calendar";s:5106:"<br />
     This is the <b>General Help of Calendar module</b><br />
     <br />
     The Calendar is a very complete module for managing events. You can create an event, set descriptive info to it,
@@ -299,7 +299,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
         </li>
     </ol>
     <br />
-    <br />";s:10:"Basic data";s:1318:"<br />
+    <br />";s:10:"Basic data";s:1353:"<br />
     <b>Basic data tab</b><br />
     <br />
     Fields:<br />
@@ -334,7 +334,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     <b>Tag</b><br />
     The tag field that synchronizes the item with Tags panel.<br />
     <br />
-    <br />";s:12:"Participants";s:5414:"<br />
+    <br />";s:12:"Participants";s:5497:"<br />
     <b>Participants tab</b><br />
     <br />
     There is no Access tab in this module, instead, it is used this Participants tab that allows adding participants to
@@ -417,7 +417,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     The deletion will apply to the whole series of events and for logged user and all participants. This is the maximum
     possible scope for the deletion.<br />
     <br />
-    <br />";s:10:"Recurrence";s:6048:"<br />
+    <br />";s:10:"Recurrence";s:6146:"<br />
     <b>Recurrence Tab</b><br />
     <br />
     Recurrence tab allows setting a recurrence to the events so that the same event is repeated later one or more
@@ -515,8 +515,8 @@ To get further help with the provided features in PHProjekt or to take the tutor
     The deletion will apply to the whole series of events and for logged user and all participants. This is the maximum
     possible scope for the deletion.<br />
     <br />
-    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:40:"Some participants have not accepted yet.";s:40:"Some participants have not accepted yet.";s:48:"Some participants have rejected your invitation.";s:48:"Some participants have rejected your invitation.";s:43:"You did not respond to this invitation yet.";s:43:"You did not respond to this invitation yet.";s:24:"Checking availability...";s:24:"Checking availability...";s:28:"The participant is available";s:28:"The participant is available";s:32:"The participant is not available";s:32:"The participant is not available";s:12:"Availability";s:12:"Availability";s:11:"CalDav urls";s:11:"CalDav Urls";s:10:"CalDav url";s:10:"CalDav url";s:29:"CalDav url for Apple software";s:29:"CalDav url for Apple software";s:6:"Notice";s:6:"Notice";s:59:"Please pay attention to the trailing slash, it is important";s:131:"Please pay attention to the trailing slash, it
-                                                                        is important";}s:7:"Contact";a:15:{s:7:"Contact";s:7:"Contact";s:4:"Name";s:4:"Name";s:6:"E-Mail";s:6:"E-Mail";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:7:"Comment";s:7:"Comment";s:7:"Private";s:7:"Private";s:7:"Tooltip";a:1:{s:7:"private";s:60:"No: all users can see it - Yes: only the creator can see it.";}s:12:"Content Help";a:4:{s:7:"General";s:7:"DEFAULT";s:7:"Contact";s:1249:"<br />
+    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:40:"Some participants have not accepted yet.";s:40:"Some participants have not accepted yet.";s:48:"Some participants have rejected your invitation.";s:48:"Some participants have rejected your invitation.";s:43:"You did not respond to this invitation yet.";s:43:"You did not respond to this invitation yet.";s:24:"Checking availability...";s:24:"Checking availability...";s:28:"The participant is available";s:28:"The participant is available";s:32:"The participant is not available";s:32:"The participant is not available";s:12:"Availability";s:12:"Availability";s:11:"CalDav urls";s:11:"CalDav Urls";s:10:"CalDav url";s:10:"CalDav url";s:29:"CalDav url for Apple software";s:29:"CalDav url for Apple software";s:6:"Notice";s:6:"Notice";s:59:"Please pay attention to the trailing slash, it is important";s:132:"Please pay attention to the trailing slash, it
+                                                                        is important";}s:7:"Contact";a:15:{s:7:"Contact";s:7:"Contact";s:4:"Name";s:4:"Name";s:6:"E-Mail";s:6:"E-Mail";s:7:"Company";s:7:"Company";s:11:"First phone";s:11:"First phone";s:12:"Second phone";s:12:"Second phone";s:12:"Mobile phone";s:12:"Mobile phone";s:6:"Street";s:6:"Street";s:4:"City";s:4:"City";s:8:"Zip code";s:8:"Zip code";s:7:"Country";s:7:"Country";s:7:"Comment";s:7:"Comment";s:7:"Private";s:7:"Private";s:7:"Tooltip";a:1:{s:7:"private";s:60:"No: all users can see it - Yes: only the creator can see it.";}s:12:"Content Help";a:4:{s:7:"General";s:7:"DEFAULT";s:7:"Contact";s:1276:"<br />
     This is the <b>General Help of Contact module</b><br />
     <br />
     This module is just to store people and companies information. It has many fields for writing data.<br />
@@ -543,7 +543,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     'Select' field that has, inside left bottom edit box of the Module Designer for that field, tab Form, field Range,
     the value 'Contact#id#name'.<br />
     <br />
-    <br />";s:10:"Basic data";s:1400:"<br />
+    <br />";s:10:"Basic data";s:1443:"<br />
     <b>Basic Data tab</b><br />
     <br />
     Fields:<br />
@@ -586,7 +586,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     Select: whether this item is private or not; so that just the owner can see it or everyone can do it,
     respectively.<br />
     <br />
-    <br />";s:7:"History";s:7:"DEFAULT";}}s:4:"Core";a:112:{s:5:"Label";s:5:"Label";s:7:"Setting";s:7:"Setting";s:14:"Administration";s:14:"Administration";s:37:"Admin section is only for admin users";s:37:"Admin section is only for admin users";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:79:"Here can be configured general settings of the site that affects all the users.";s:79:"Here can be configured general settings of the site that affects all the users.";s:39:"Please choose one of the tabs of above.";s:39:"Please choose one of the tabs of above.";s:4:"User";s:4:"User";s:16:"Confirm Password";s:16:"Confirm Password";s:12:"Old Password";s:12:"Old Password";s:5:"Admin";s:5:"Admin";s:41:"Already exists, choose another one please";s:41:"Already exists, choose another one please";s:38:"The value for the setting is incorrect";s:38:"The value for the setting is incorrect";s:67:"The password and confirmation are different or one of them is empty";s:67:"The password and confirmation are different or one of them is empty";s:36:"The old password provided is invalid";s:36:"The old password provided is invalid";s:35:"The Time zone value is out of range";s:35:"The Time zone value is out of range";s:32:"The Language value do not exists";s:32:"The Language value do not exists";s:21:"Invalid email address";s:21:"Invalid email address";s:72:"You need to log out and log in again in order to let changes have effect";s:72:"You need to log out and log in again in order to let changes have effect";s:7:"Tooltip";a:6:{s:8:"timeZone";s:175:"The Time zone (UTC) for the region or country you will be using Phprojekt.<br />This is required for all users but specially useful for international events time coordination.";s:8:"password";s:124:"For new users, this is a required field. For existing users, leave this field blank if you don't want to change the password";s:6:"alerts";s:75:"This is to turn on/off the alerts, e.g some minutes an event of you starts.";s:11:"loginLogout";s:91:"Enable/disable this and messages about the login/logout of other user will (not) disappear.";s:13:"usergenerated";s:57:"This is to turn on/off messages from another user to you.";s:11:"datarecords";s:181:"This is to turn on/off system generated messages.<br />Events that trigger this message: CREATE a new Item (e.g. a Project, Note or Todo), DELETE an existing Item, and EDIT an Item.";}s:6:"Module";s:6:"Module";s:4:"Form";s:4:"Form";s:6:"Normal";s:6:"Normal";s:6:"Global";s:6:"Global";s:11:"Open Editor";s:11:"Open Editor";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:8:"Database";s:8:"Database";s:10:"Field name";s:10:"Field name";s:10:"Field type";s:10:"Field type";s:12:"Field lenght";s:12:"Field lenght";s:11:"Select Type";s:11:"Select Type";s:13:"Custom Values";s:13:"Custom Values";s:6:"Values";s:6:"Values";s:13:"Default Value";s:13:"Default Value";s:4:"Grid";s:4:"Grid";s:13:"List Position";s:13:"List Position";s:7:"General";s:7:"General";s:14:"Required Field";s:14:"Required Field";s:30:"The module was added correctly";s:30:"The module was added correctly";s:31:"The module was edited correctly";s:31:"The module was edited correctly";s:29:"The module can not be deleted";s:29:"The module can not be deleted";s:32:"The module was deleted correctly";s:32:"The module was deleted correctly";s:36:"There was an error writing the table";s:36:"There was an error writing the table";s:38:"The table module was created correctly";s:38:"The table module was created correctly";s:37:"The table module was edited correctly";s:37:"The table module was edited correctly";s:18:"Invalid parameters";s:18:"Invalid parameters";s:42:"The Module must contain at least one field";s:42:"The Module must contain at least one field";s:35:"Please enter a name for this module";s:35:"Please enter a name for this module";s:40:"The module name must start with a letter";s:40:"The module name must start with a letter";s:37:"All the fields must have a table name";s:37:"All the fields must have a table name";s:45:"There are two fields with the same Field Name";s:45:"There are two fields with the same Field Name";s:36:""?" is not allowed in the field name";s:36:""?" is not allowed in the field name";s:58:"The length of the varchar fields must be between 1 and 255";s:58:"The length of the varchar fields must be between 1 and 255";s:53:"The length of the int fields must be between 1 and 11";s:53:"The length of the int fields must be between 1 and 11";s:39:"Invalid form Range for the select field";s:39:"Invalid form Range for the select field";s:57:"The module must have a project selector called project_id";s:57:"The module must have a project selector called project_id";s:38:"Project module must be a normal module";s:38:"Project module must be a normal module";s:77:"The module must have at least one field with the list position greater than 0";s:77:"The module must have at least one field with the list position greater than 0";s:33:"You can not delete system modules";s:33:"You can not delete system modules";s:15:"Module Designer";s:15:"Module Designer";s:35:"Repository of available field types";s:35:"Repository of available field types";s:27:"Active fields in the module";s:27:"Active fields in the module";s:17:"Example Project 1";s:17:"Example Project 1";s:17:"Example Project 2";s:17:"Example Project 2";s:14:"Example User 1";s:14:"Example User 1";s:14:"Example User 2";s:14:"Example User 2";s:17:"Example Contact 1";s:17:"Example Contact 1";s:17:"Example Contact 2";s:17:"Example Contact 2";s:67:"Each option have the key, and the value to display, separated by #.";s:67:"Each option have the key, and the value to display, separated by #.";s:39:"Separate the diferent options with '|'.";s:39:"Separate the diferent options with '|'.";s:54:"For Modules queries, use Module#keyField#displayField.";s:54:"For Modules queries, use Module#keyField#displayField.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:36:"1. Drag a field into the right pane.";s:36:"1. Drag a field into the right pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:15:"Number of stars";s:15:"Number of stars";s:3:"Tab";s:3:"Tab";s:10:"Basic Data";s:10:"Basic Data";s:6:"People";s:6:"People";s:4:"Role";s:4:"Role";s:12:"Company Name";s:12:"Company Name";s:25:"The Company name is empty";s:25:"The Company name is empty";s:14:"Login / Logout";s:14:"Login / Logout";s:12:"Data Records";s:12:"Data Records";s:6:"Alerts";s:6:"Alerts";s:12:"Notification";s:12:"Notification";s:27:"Content Help Administration";a:7:{s:7:"General";s:7:"DEFAULT";s:14:"Administration";s:1134:"<br />
+    <br />";s:7:"History";s:7:"DEFAULT";}}s:4:"Core";a:112:{s:5:"Label";s:5:"Label";s:7:"Setting";s:7:"Setting";s:14:"Administration";s:14:"Administration";s:37:"Admin section is only for admin users";s:37:"Admin section is only for admin users";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:99:"This module is for the user to set and change specific configuration parameters of his/her profile.";s:79:"Here can be configured general settings of the site that affects all the users.";s:79:"Here can be configured general settings of the site that affects all the users.";s:39:"Please choose one of the tabs of above.";s:39:"Please choose one of the tabs of above.";s:4:"User";s:4:"User";s:16:"Confirm Password";s:16:"Confirm Password";s:12:"Old Password";s:12:"Old Password";s:5:"Admin";s:5:"Admin";s:41:"Already exists, choose another one please";s:41:"Already exists, choose another one please";s:38:"The value for the setting is incorrect";s:38:"The value for the setting is incorrect";s:67:"The password and confirmation are different or one of them is empty";s:67:"The password and confirmation are different or one of them is empty";s:36:"The old password provided is invalid";s:36:"The old password provided is invalid";s:35:"The Time zone value is out of range";s:35:"The Time zone value is out of range";s:32:"The Language value do not exists";s:32:"The Language value do not exists";s:21:"Invalid email address";s:21:"Invalid email address";s:72:"You need to log out and log in again in order to let changes have effect";s:72:"You need to log out and log in again in order to let changes have effect";s:7:"Tooltip";a:6:{s:8:"timeZone";s:175:"The Time zone (UTC) for the region or country you will be using Phprojekt.<br />This is required for all users but specially useful for international events time coordination.";s:8:"password";s:124:"For new users, this is a required field. For existing users, leave this field blank if you don't want to change the password";s:6:"alerts";s:75:"This is to turn on/off the alerts, e.g some minutes an event of you starts.";s:11:"loginLogout";s:91:"Enable/disable this and messages about the login/logout of other user will (not) disappear.";s:13:"usergenerated";s:57:"This is to turn on/off messages from another user to you.";s:11:"datarecords";s:181:"This is to turn on/off system generated messages.<br />Events that trigger this message: CREATE a new Item (e.g. a Project, Note or Todo), DELETE an existing Item, and EDIT an Item.";}s:6:"Module";s:6:"Module";s:4:"Form";s:4:"Form";s:6:"Normal";s:6:"Normal";s:6:"Global";s:6:"Global";s:11:"Open Editor";s:11:"Open Editor";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:86:"Open a dialog where you can drag and drop many fields for create the form as you want.";s:8:"Database";s:8:"Database";s:10:"Field name";s:10:"Field name";s:10:"Field type";s:10:"Field type";s:12:"Field lenght";s:12:"Field lenght";s:11:"Select Type";s:11:"Select Type";s:13:"Custom Values";s:13:"Custom Values";s:6:"Values";s:6:"Values";s:13:"Default Value";s:13:"Default Value";s:4:"Grid";s:4:"Grid";s:13:"List Position";s:13:"List Position";s:7:"General";s:7:"General";s:14:"Required Field";s:14:"Required Field";s:30:"The module was added correctly";s:30:"The module was added correctly";s:31:"The module was edited correctly";s:31:"The module was edited correctly";s:29:"The module can not be deleted";s:29:"The module can not be deleted";s:32:"The module was deleted correctly";s:32:"The module was deleted correctly";s:36:"There was an error writing the table";s:36:"There was an error writing the table";s:38:"The table module was created correctly";s:38:"The table module was created correctly";s:37:"The table module was edited correctly";s:37:"The table module was edited correctly";s:18:"Invalid parameters";s:18:"Invalid parameters";s:42:"The Module must contain at least one field";s:42:"The Module must contain at least one field";s:35:"Please enter a name for this module";s:35:"Please enter a name for this module";s:40:"The module name must start with a letter";s:40:"The module name must start with a letter";s:37:"All the fields must have a table name";s:37:"All the fields must have a table name";s:45:"There are two fields with the same Field Name";s:45:"There are two fields with the same Field Name";s:36:""?" is not allowed in the field name";s:36:""?" is not allowed in the field name";s:58:"The length of the varchar fields must be between 1 and 255";s:58:"The length of the varchar fields must be between 1 and 255";s:53:"The length of the int fields must be between 1 and 11";s:53:"The length of the int fields must be between 1 and 11";s:39:"Invalid form Range for the select field";s:39:"Invalid form Range for the select field";s:57:"The module must have a project selector called project_id";s:57:"The module must have a project selector called project_id";s:38:"Project module must be a normal module";s:38:"Project module must be a normal module";s:77:"The module must have at least one field with the list position greater than 0";s:77:"The module must have at least one field with the list position greater than 0";s:33:"You can not delete system modules";s:33:"You can not delete system modules";s:15:"Module Designer";s:15:"Module Designer";s:35:"Repository of available field types";s:35:"Repository of available field types";s:27:"Active fields in the module";s:27:"Active fields in the module";s:17:"Example Project 1";s:17:"Example Project 1";s:17:"Example Project 2";s:17:"Example Project 2";s:14:"Example User 1";s:14:"Example User 1";s:14:"Example User 2";s:14:"Example User 2";s:17:"Example Contact 1";s:17:"Example Contact 1";s:17:"Example Contact 2";s:17:"Example Contact 2";s:67:"Each option have the key, and the value to display, separated by #.";s:67:"Each option have the key, and the value to display, separated by #.";s:39:"Separate the diferent options with '|'.";s:39:"Separate the diferent options with '|'.";s:54:"For Modules queries, use Module#keyField#displayField.";s:54:"For Modules queries, use Module#keyField#displayField.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:90:"The API will get all the keyField of the module and will use the displayField for show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:95:"Defines the position of the field in the grid. Starts with 1 in the left. 0 for do not show it.";s:36:"1. Drag a field into the right pane.";s:36:"1. Drag a field into the right pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:59:"2. Edit the parameters of the field in the lower left pane.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:68:"Drop in this panel all the fields that you want to have in this tab.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:67:"For sort the fields, just drag and drop it in the correct position.";s:15:"Number of stars";s:15:"Number of stars";s:3:"Tab";s:3:"Tab";s:10:"Basic Data";s:10:"Basic Data";s:6:"People";s:6:"People";s:4:"Role";s:4:"Role";s:12:"Company Name";s:12:"Company Name";s:25:"The Company name is empty";s:25:"The Company name is empty";s:14:"Login / Logout";s:14:"Login / Logout";s:12:"Data Records";s:12:"Data Records";s:6:"Alerts";s:6:"Alerts";s:12:"Notification";s:12:"Notification";s:27:"Content Help Administration";a:7:{s:7:"General";s:7:"DEFAULT";s:14:"Administration";s:1163:"<br />
     This is the <b>General Help of Administration module</b><br />
     <br />
     This module is only accessible to users with Admin profile.<br />
@@ -615,7 +615,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     This is a general configurations tab.<br />
     Currently it has only one field: 'Company name'.<br />
     <br />
-    <br />";s:6:"Module";s:7185:"<br />
+    <br />";s:6:"Module";s:7327:"<br />
     <b>Module tab</b><br />
     <br />
     The Module Designer is a very easy-to-use visual drag & drop interface to create modules or modify the existing
@@ -757,7 +757,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
         </li>
     </ul>
     <br />
-    <br />";s:3:"Tab";s:1657:"<br />
+    <br />";s:3:"Tab";s:1688:"<br />
     <b>TAB tab</b><br />
     <br />
     This section permits modifying the tabs of the modules.<br />
@@ -788,7 +788,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
         </li>
     </ul>
     <br />
-    <br />";s:4:"User";s:2430:"<br />
+    <br />";s:4:"User";s:2497:"<br />
     <b>User tab</b><br />
     <br />
     This sub-module allows modifying users main data and settings.<br />
@@ -855,7 +855,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     <b>Admin</b><br />
     Select: whether this user has Admin access or not.<br />
     <br />
-    <br />";s:4:"Role";s:1428:"<br />
+    <br />";s:4:"Role";s:1453:"<br />
     <b>Role tab</b><br />
     <br />
     This tab permits managing the Roles.<br />
@@ -880,7 +880,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     <b>Note:</b> in the listing of modules that you select to assign rights to a rol, the <b>Project</b> module
     represents the Subprojects of Projects.<br />
     <br />
-    <br />";s:11:"General tab";s:349:"<br />
+    <br />";s:11:"General tab";s:357:"<br />
     <b>General tab</b><br />
     <br />
     This is a general configurations tab.<br />
@@ -888,7 +888,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     Currently it has only one field 'Company name' where you set the company name that will be seen in the beginning of
     the breadcrumb trail when a Project related module is selected (Project, Gantt, Todo, etc).<br />
     <br />
-    <br />";}s:20:"Content Help Setting";a:5:{s:7:"General";s:7:"DEFAULT";s:7:"Setting";s:816:"<br />
+    <br />";}s:20:"Content Help Setting";a:5:{s:7:"General";s:7:"DEFAULT";s:7:"Setting";s:830:"<br />
     This is the <b>General Help of Setting module</b><br />
     <br />
     Settings module allows logged user to modify personal information.<br />
@@ -902,7 +902,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     Admin type users are able to modify other users information, but not here, they do it in Administration
     module.<br />
     <br />
-    <br />";s:4:"User";s:1754:"<br />
+    <br />";s:4:"User";s:1790:"<br />
     <b>User tab</b><br />
     <br />
     Here you will see logged user info.<br />
@@ -938,7 +938,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     Each option of the select field has a local time number and a descriptive earth location to help finding
     yours.<br />
     <br />
-    <br />";s:13:"Notifications";s:1342:"<br />
+    <br />";s:13:"Notifications";s:1368:"<br />
     <b>Notifications tab</b><br />
     <br />
     Here you can configure the notifications and real-time connection with the server.<br />
@@ -964,7 +964,7 @@ To get further help with the provided features in PHProjekt or to take the tutor
     <b>Alerts</b><br />
     It is not developed yet, the check box is disabled.<br />
     <br />
-    <br />";s:8:"Timecard";s:481:"<br />
+    <br />";s:8:"Timecard";s:491:"<br />
     <b>Timecard tab</b><br />
     <br />
     Here you will see and will be able to change the Favorite Projects of Timecard module.<br />
@@ -990,14 +990,14 @@ You can try again, but there might be problems in the future.";s:135:"There was 
 Please consult the logfiles to find out more.";s:135:"There was a problem upgrading, but we managed to keep the database in a consistent state.
 Please consult the logfiles to find out more.";s:134:"We're sorry, but our upgrade attempt broke the database.
 Please recover your backups and consult the logfiles to get more information.";s:134:"We're sorry, but our upgrade attempt broke the database.
-Please recover your backups and consult the logfiles to get more information.";s:45:"An error occured while upgrading this module.";s:45:"An error occured while upgrading this module.";s:11:"Old Version";s:11:"Old Version";s:11:"New Version";s:11:"New Version";s:6:"Status";s:6:"Status";s:11:"Upgrade now";s:11:"Upgrade now";s:8:"Continue";s:8:"Continue";s:9:"Upgrading";s:9:"Upgrading";s:4:"Done";s:4:"Done";}s:11:"Filemanager";a:7:{s:11:"Filemanager";s:11:"Filemanager";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:6:"Upload";s:6:"Upload";s:7:"Tooltip";a:1:{s:5:"files";s:41:"You can upload as many files as you want.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:11:"Filemanager";s:336:"<br />
+Please recover your backups and consult the logfiles to get more information.";s:45:"An error occured while upgrading this module.";s:45:"An error occured while upgrading this module.";s:11:"Old Version";s:11:"Old Version";s:11:"New Version";s:11:"New Version";s:6:"Status";s:6:"Status";s:11:"Upgrade now";s:11:"Upgrade now";s:8:"Continue";s:8:"Continue";s:9:"Upgrading";s:9:"Upgrading";s:4:"Done";s:4:"Done";}s:11:"Filemanager";a:7:{s:11:"Filemanager";s:11:"Filemanager";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:6:"Upload";s:6:"Upload";s:7:"Tooltip";a:1:{s:5:"files";s:41:"You can upload as many files as you want.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:11:"Filemanager";s:343:"<br />
     This is the <b>General Help of Filemanager module</b><br />
     <br />
     The File manager is a module defined exclusively for uploading and downloading files from the system.<br />
     <br />
     It can be added more than one file in just one item of the module, with description, category, etc.<br />
     <br />
-    <br />";s:10:"Basic data";s:1066:"<br />
+    <br />";s:10:"Basic data";s:1093:"<br />
     <b>Basic Data tab</b><br />
     <br />
     Fields:<br />
@@ -1024,9 +1024,9 @@ Please recover your backups and consult the logfiles to get more information.";s
     <b>Tag</b><br />
     The tag field that synchronizes the item with Tags panel.<br />
     <br />
-    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:5:"Gantt";a:27:{s:5:"Gantt";s:5:"Gantt";s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:28:"No project info was received";s:28:"No project info was received";s:24:"Incomplete data received";s:24:"Incomplete data received";s:14:"Id not found #";s:14:"Id not found #";s:12:"Project id #";s:12:"Project id #";s:18:"Start date invalid";s:18:"Start date invalid";s:16:"End date invalid";s:16:"End date invalid";s:36:"Start date can not be after End date";s:36:"Start date can not be after End date";s:25:"Attention: parent project";s:25:"Attention: parent project";s:22:"Attention: sub-project";s:21:"Attention: subproject";s:24:"starts after sub-project";s:23:"starts after subproject";s:23:"ends before sub-project";s:22:"ends before subproject";s:25:"ends after parent project";s:25:"ends after parent project";s:28:"starts before parent project";s:28:"starts before parent project";s:53:"Click "OK" to adjust parent project to new start date";s:57:"Click "OK" to adjust parent project to new
-    start date";s:51:"Click "OK" to adjust parent project to new end date";s:55:"Click "OK" to adjust parent project to new
-    end date";s:48:"Click "OK" to adjust sub-project to new end date";s:47:"Click "OK" to adjust subproject to new end date";s:50:"Click "OK" to adjust sub-project to new start date";s:49:"Click "OK" to adjust subproject to new start date";s:38:"Click "Reset" to reset current project";s:38:"Click "Reset" to reset current project";s:32:"Click "x" or "ESC" to do nothing";s:32:"Click "x" or "ESC" to do nothing";s:27:"There are no valid projects";s:27:"There are no valid projects";s:25:"Selected Project Timeline";s:25:"Selected Project Timeline";s:7:"Warning";s:7:"Warning";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:5:"Gantt";s:1095:"<br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:5:"Gantt";a:27:{s:5:"Gantt";s:5:"Gantt";s:8:"Projects";s:8:"Projects";s:7:"Project";s:7:"Project";s:28:"No project info was received";s:28:"No project info was received";s:24:"Incomplete data received";s:24:"Incomplete data received";s:14:"Id not found #";s:14:"Id not found #";s:12:"Project id #";s:12:"Project id #";s:18:"Start date invalid";s:18:"Start date invalid";s:16:"End date invalid";s:16:"End date invalid";s:36:"Start date can not be after End date";s:36:"Start date can not be after End date";s:25:"Attention: parent project";s:25:"Attention: parent project";s:22:"Attention: sub-project";s:21:"Attention: subproject";s:24:"starts after sub-project";s:23:"starts after subproject";s:23:"ends before sub-project";s:22:"ends before subproject";s:25:"ends after parent project";s:25:"ends after parent project";s:28:"starts before parent project";s:28:"starts before parent project";s:53:"Click "OK" to adjust parent project to new start date";s:58:"Click "OK" to adjust parent project to new
+    start date";s:51:"Click "OK" to adjust parent project to new end date";s:56:"Click "OK" to adjust parent project to new
+    end date";s:48:"Click "OK" to adjust sub-project to new end date";s:47:"Click "OK" to adjust subproject to new end date";s:50:"Click "OK" to adjust sub-project to new start date";s:49:"Click "OK" to adjust subproject to new start date";s:38:"Click "Reset" to reset current project";s:38:"Click "Reset" to reset current project";s:32:"Click "x" or "ESC" to do nothing";s:32:"Click "x" or "ESC" to do nothing";s:27:"There are no valid projects";s:27:"There are no valid projects";s:25:"Selected Project Timeline";s:25:"Selected Project Timeline";s:7:"Warning";s:7:"Warning";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:79:"Click on a Project timeline and see and/or change here the Start and End dates.";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:5:"Gantt";s:1111:"<br />
     This is the <b>General Help of Gantt module</b><br />
     <br />
     This module is a Gantt chart interface, mouse editable, which is automatically synchronized with the data stored in
@@ -1042,7 +1042,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     timeline bar, this panel's fields get loaded with the start and end dates of clicked bar Project, so that you can
     see and/or modify them writing different dates or selecting them in the calendar that pops up for each field.<br />
     <br />
-    <br />";s:15:"Listed Projects";s:1610:"<br />
+    <br />";s:15:"Listed Projects";s:1636:"<br />
     The listed Projects are those you have at least Read access to, and also that they have filled 'Start Date' and
     'End Date' values.<br />
     <br />
@@ -1068,7 +1068,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     visually perceive its duration in time, relation and proportion paying attention to the column headers, and compare
     it with its Sub-Projects, parent or another Projects.<br />
     <br />
-    <br />";s:14:"Changing dates";s:2052:"<br />
+    <br />";s:14:"Changing dates";s:2091:"<br />
     <b>MOVING AND RESIZING THE BARS</b><br />
     <br />
     There are two ways of modifying times of a Project through the mouse and the bars: Moving and Resizing them.<br />
@@ -1107,7 +1107,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     appears behind, or write it manually in the field.<br />
     Then press the Check button; if no error is found the bar will move onto its new parameters.<br />
     <br />
-    <br />";s:17:"Checks and errors";s:2883:"<br />
+    <br />";s:17:"Checks and errors";s:2933:"<br />
     After you change Project dates either from the bar (moving the whole bar or just a border of it) or upper panel
     fields, internal checks are performed. If any error is found, one of the following four errors will be brought up
     in a dialog for you to choose what to do. XX in the error title means a Project name.<br />
@@ -1157,13 +1157,13 @@ Please recover your backups and consult the logfiles to get more information.";s
     Click Reset to restore the moved Sub-Project to its previous position and/or width.<br />
     Click the top right [x] cross button or Esc to leave things as they are.<br />
     <br />
-    <br />";s:12:"Write access";s:343:"<br />
+    <br />";s:12:"Write access";s:349:"<br />
     You will be able to make changes only in the Projects where you have write permission.<br />
     <br />
     If you have right permission in at least one of the listed Projects then the 'Save' button will be seen.<br />
     The rest of the Project bars will be disabled and you won't be able to move them.<br />
     <br />
-    <br />";}}s:8:"Helpdesk";a:20:{s:8:"Helpdesk";s:8:"Helpdesk";s:5:"Title";s:5:"Title";s:8:"Assigned";s:8:"Assigned";s:4:"Date";s:4:"Date";s:7:"Project";s:7:"Project";s:8:"Priority";s:8:"Priority";s:11:"Attachments";s:11:"Attachments";s:11:"Description";s:11:"Description";s:6:"Status";s:6:"Status";s:4:"Open";s:4:"Open";s:6:"Solved";s:6:"Solved";s:8:"Verified";s:8:"Verified";s:6:"Closed";s:6:"Closed";s:8:"Due date";s:8:"Due date";s:6:"Author";s:6:"Author";s:9:"Solved by";s:9:"Solved by";s:11:"Solved date";s:11:"Solved date";s:7:"Contact";s:7:"Contact";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:8:"Helpdesk";s:553:"<br />
+    <br />";}}s:8:"Helpdesk";a:20:{s:8:"Helpdesk";s:8:"Helpdesk";s:5:"Title";s:5:"Title";s:8:"Assigned";s:8:"Assigned";s:4:"Date";s:4:"Date";s:7:"Project";s:7:"Project";s:8:"Priority";s:8:"Priority";s:11:"Attachments";s:11:"Attachments";s:11:"Description";s:11:"Description";s:6:"Status";s:6:"Status";s:4:"Open";s:4:"Open";s:6:"Solved";s:6:"Solved";s:8:"Verified";s:8:"Verified";s:6:"Closed";s:6:"Closed";s:8:"Due date";s:8:"Due date";s:6:"Author";s:6:"Author";s:9:"Solved by";s:9:"Solved by";s:11:"Solved date";s:11:"Solved date";s:7:"Contact";s:7:"Contact";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:8:"Helpdesk";s:563:"<br />
     This is the <b>General Help of Helpdesk module</b><br />
     <br />
     The Helpdesk is a module to report and track bugs or things that must be solved inside whatever context.<br />
@@ -1173,7 +1173,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     There are some automatic fields: <b>Author</b>, <b>Date</b>, <b>Solved by</b> and <b>Solved date</b> that are
     filled automatically depending on the users that create and solve the items.<br />
     <br />
-    <br />";s:10:"Basic data";s:3369:"<br />
+    <br />";s:10:"Basic data";s:3441:"<br />
     <b>Basic Data tab</b><br />
     <br />
     Fields:<br />
@@ -1245,8 +1245,8 @@ Please recover your backups and consult the logfiles to get more information.";s
     <b>Tag</b><br />
     The tag field that synchronizes the item with Tags panel.<br />
     <br />
-    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Minutes";a:46:{s:6:"Minute";s:6:"Minute";s:5:"Title";s:5:"Title";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Project";s:7:"Project";s:11:"Description";s:11:"Description";s:5:"Place";s:5:"Place";s:9:"Moderator";s:9:"Moderator";s:7:"Invited";s:7:"Invited";s:9:"Attending";s:9:"Attending";s:7:"Excused";s:7:"Excused";s:6:"Status";s:6:"Status";s:7:"Planned";s:7:"Planned";s:5:"Empty";s:5:"Empty";s:6:"Filled";s:6:"Filled";s:5:"Final";s:5:"Final";s:4:"Mail";s:4:"Mail";s:10:"Recipients";s:10:"Recipients";s:21:"Additional Recipients";s:21:"Additional Recipients";s:7:"Options";s:7:"Options";s:22:"Include PDF attachment";s:22:"Include PDF attachment";s:9:"Send mail";s:9:"Send mail";s:7:"Preview";s:7:"Preview";s:68:"The currently logged-in user is not owner of the given minutes entry";s:68:"The currently logged-in user is not owner of the given minutes entry";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:61:"After proceeding, changes to the data will be possible again.";s:61:"After proceeding, changes to the data will be possible again.";s:52:"Are you sure this Minutes entry should be finalized?";s:52:"Are you sure this Minutes entry should be finalized?";s:32:"Write access will be prohibited!";s:32:"Write access will be prohibited!";s:21:"Minutes are finalized";s:21:"Minutes are finalized";s:32:"This Minutes entry is finalized.";s:32:"This Minutes entry is finalized.";s:35:"Editing data is no longer possible.";s:35:"Editing data is no longer possible.";s:33:"Your changes have not been saved.";s:33:"Your changes have not been saved.";s:30:"The mail was sent successfully";s:30:"The mail was sent successfully";s:26:"The mail could not be sent";s:26:"The mail could not be sent";s:42:"No recipient addresses have been specified";s:42:"No recipient addresses have been specified";s:31:"Invalid email address detected:";s:31:"Invalid email address detected:";s:19:"Meeting minutes for";s:19:"Meeting minutes for";s:3:"No.";s:3:"No.";s:4:"Type";s:4:"Type";s:4:"Item";s:4:"Item";s:18:"Unfinalize Minutes";s:18:"Unfinalize Minutes";s:16:"Finalize Minutes";s:16:"Finalize Minutes";s:7:"Confirm";s:7:"Confirm";s:13:"Are you sure?";s:13:"Are you sure?";s:56:"Email addresses of unlisted recipients, comma-separated.";s:60:"Email addresses of unlisted recipients,
-    comma-separated.";s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:6:"Minute";s:685:"<br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Minutes";a:46:{s:6:"Minute";s:6:"Minute";s:5:"Title";s:5:"Title";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Project";s:7:"Project";s:11:"Description";s:11:"Description";s:5:"Place";s:5:"Place";s:9:"Moderator";s:9:"Moderator";s:7:"Invited";s:7:"Invited";s:9:"Attending";s:9:"Attending";s:7:"Excused";s:7:"Excused";s:6:"Status";s:6:"Status";s:7:"Planned";s:7:"Planned";s:5:"Empty";s:5:"Empty";s:6:"Filled";s:6:"Filled";s:5:"Final";s:5:"Final";s:4:"Mail";s:4:"Mail";s:10:"Recipients";s:10:"Recipients";s:21:"Additional Recipients";s:21:"Additional Recipients";s:7:"Options";s:7:"Options";s:22:"Include PDF attachment";s:22:"Include PDF attachment";s:9:"Send mail";s:9:"Send mail";s:7:"Preview";s:7:"Preview";s:68:"The currently logged-in user is not owner of the given minutes entry";s:68:"The currently logged-in user is not owner of the given minutes entry";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:62:"Are you sure this Minutes entry should no longer be finalized?";s:61:"After proceeding, changes to the data will be possible again.";s:61:"After proceeding, changes to the data will be possible again.";s:52:"Are you sure this Minutes entry should be finalized?";s:52:"Are you sure this Minutes entry should be finalized?";s:32:"Write access will be prohibited!";s:32:"Write access will be prohibited!";s:21:"Minutes are finalized";s:21:"Minutes are finalized";s:32:"This Minutes entry is finalized.";s:32:"This Minutes entry is finalized.";s:35:"Editing data is no longer possible.";s:35:"Editing data is no longer possible.";s:33:"Your changes have not been saved.";s:33:"Your changes have not been saved.";s:30:"The mail was sent successfully";s:30:"The mail was sent successfully";s:26:"The mail could not be sent";s:26:"The mail could not be sent";s:42:"No recipient addresses have been specified";s:42:"No recipient addresses have been specified";s:31:"Invalid email address detected:";s:31:"Invalid email address detected:";s:19:"Meeting minutes for";s:19:"Meeting minutes for";s:3:"No.";s:3:"No.";s:4:"Type";s:4:"Type";s:4:"Item";s:4:"Item";s:18:"Unfinalize Minutes";s:18:"Unfinalize Minutes";s:16:"Finalize Minutes";s:16:"Finalize Minutes";s:7:"Confirm";s:7:"Confirm";s:13:"Are you sure?";s:13:"Are you sure?";s:56:"Email addresses of unlisted recipients, comma-separated.";s:61:"Email addresses of unlisted recipients,
+    comma-separated.";s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:6:"Minute";s:697:"<br />
     This is the <b>General Help of the Minute module</b><br />
     <br />
     This module is meant for the transcription of meeting minutes.<br />
@@ -1258,7 +1258,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     It has a submodule inside Items tab, which has a little grid and a little form, where you can add and organize
     the contents of the meeting into categories like Topics, Statements, Todos, Decisions and Dates.<br />
     <br />
-    <br />";s:10:"Basic data";s:1742:"<br />
+    <br />";s:10:"Basic data";s:1789:"<br />
     <b>Basic data tab</b><br />
     <br />
     Inside this tab it goes the main information about the Minute.<br />
@@ -1305,7 +1305,7 @@ Please recover your backups and consult the logfiles to get more information.";s
         </li>
     </ul>
     <br />
-    <br />";s:6:"People";s:556:"<br />
+    <br />";s:6:"People";s:575:"<br />
     <b>People tab</b><br />
     <br />
     This tab allows defining people invited to the meeting, actual attendees and people who are excused.<br />
@@ -1324,7 +1324,7 @@ Please recover your backups and consult the logfiles to get more information.";s
         </li>
     </ul>
     <br />
-    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";s:4:"Mail";s:1592:"<br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";s:4:"Mail";s:1623:"<br />
     <b>Mail tab</b><br />
     <br />
     This tab allows sending an email that is different from the regular Notification.<br />
@@ -1355,7 +1355,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     You can receive a copy of the PDF file previous to sending it pressing 'Preview' button: you will be offered to
     download the file.<br />
     <br />
-    <br />";}}s:11:"MinutesItem";a:14:{s:11:"MinutesItem";s:5:"Items";s:5:"Title";s:5:"Title";s:4:"Type";s:4:"Type";s:5:"Topic";s:5:"Topic";s:9:"Statement";s:9:"Statement";s:4:"Todo";s:4:"Todo";s:8:"Decision";s:8:"Decision";s:7:"Comment";s:7:"Comment";s:4:"Date";s:4:"Date";s:3:"Who";s:3:"Who";s:10:"Sort after";s:10:"Sort after";s:43:"This minutes is final and cannot be edited.";s:43:"This minutes is final and cannot be edited.";s:19:"Undefined topicType";s:19:"Undefined topicType";s:12:"Content Help";a:1:{s:5:"Items";s:7265:"<br />
+    <br />";}}s:11:"MinutesItem";a:14:{s:11:"MinutesItem";s:5:"Items";s:5:"Title";s:5:"Title";s:4:"Type";s:4:"Type";s:5:"Topic";s:5:"Topic";s:9:"Statement";s:9:"Statement";s:4:"Todo";s:4:"Todo";s:8:"Decision";s:8:"Decision";s:7:"Comment";s:7:"Comment";s:4:"Date";s:4:"Date";s:3:"Who";s:3:"Who";s:10:"Sort after";s:10:"Sort after";s:43:"This minutes is final and cannot be edited.";s:43:"This minutes is final and cannot be edited.";s:19:"Undefined topicType";s:19:"Undefined topicType";s:12:"Content Help";a:1:{s:5:"Items";s:7402:"<br />
     <b>Items tab</b><br />
     <br />
     Items tab is a submodule inside a tab.<br />
@@ -1492,7 +1492,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     <b>Delete</b><br />
     Shown after clicking a row of the Grid, press it to delete it.<br />
     <br />
-    <br />";}}s:4:"Note";a:5:{s:4:"Note";s:4:"Note";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Note";s:362:"<br />
+    <br />";}}s:4:"Note";a:5:{s:4:"Note";s:4:"Note";s:5:"Title";s:5:"Title";s:8:"Comments";s:8:"Comments";s:7:"Project";s:7:"Project";s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Note";s:370:"<br />
     This is the <b>General Help of Note module</b><br />
     <br />
     The Note is just a module to leave notes and associate them to a Project or Subproject.<br />
@@ -1500,7 +1500,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     The module has the same general characteristics than other modules like having the tabs <b>Access</b>,
     <b>Notification</b> and <b>History</b>.<br />
     <br />
-    <br />";s:10:"Basic data";s:667:"<br />
+    <br />";s:10:"Basic data";s:690:"<br />
     <b>Basic Data tab</b><br />
     <br />
     Fields:<br />
@@ -1523,7 +1523,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     <b>Tag</b><br />
     The tag field that synchronizes the item with Tags panel.<br />
     <br />
-    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Project";a:23:{s:7:"Project";s:7:"Project";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:6:"Parent";s:6:"Parent";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:16:"Hourly wage rate";s:16:"Hourly wage rate";s:7:"Contact";s:7:"Contact";s:64:"The deletion of a project and its subprojects might take a while";s:64:"The deletion of a project and its subprojects might take a while";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:7:"Project";s:3016:"<br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}}s:7:"Project";a:23:{s:7:"Project";s:7:"Project";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:6:"Parent";s:6:"Parent";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Offered";s:7:"Offered";s:7:"Ordered";s:7:"Ordered";s:7:"Working";s:7:"Working";s:5:"Ended";s:5:"Ended";s:7:"Stopped";s:7:"Stopped";s:9:"Re-Opened";s:9:"Re-Opened";s:7:"Waiting";s:7:"Waiting";s:16:"Complete percent";s:16:"Complete percent";s:6:"Budget";s:6:"Budget";s:16:"Hourly wage rate";s:16:"Hourly wage rate";s:7:"Contact";s:7:"Contact";s:64:"The deletion of a project and its subprojects might take a while";s:64:"The deletion of a project and its subprojects might take a while";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:8:{s:7:"General";s:7:"DEFAULT";s:7:"Project";s:3060:"<br />
     This is the <b>General Help of Project module</b><br />
     <br />
     The Projects are the most important functional part of the system. The user creates a Project to work with, and then
@@ -1567,7 +1567,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     Projects may have subprojects and many other properties that you can start to learn reading <b>Basic Data</b> tab
     inside this help.<br />
     <br />
-    <br />";s:10:"Basic data";s:1162:"<br />
+    <br />";s:10:"Basic data";s:1207:"<br />
     <b>Basic data tab</b><br />
     <br />
     Inside this tab it goes the main information about the Project.<br />
@@ -1612,7 +1612,7 @@ Please recover your backups and consult the logfiles to get more information.";s
         </li>
     </ul>
     <br />
-    <br />";s:6:"Access";s:7:"DEFAULT";s:6:"Module";s:1643:"<br />
+    <br />";s:6:"Access";s:7:"DEFAULT";s:6:"Module";s:1680:"<br />
     <b>Module tab</b><br />
     <br />
     This tab has a list of all the modules that can be associated to the project.<br />
@@ -1649,7 +1649,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     <br />
     Note: all these modules are explained in detail inside its appropriate section of the help.<br />
     <br />
-    <br />";s:4:"Role";s:1569:"<br />
+    <br />";s:4:"Role";s:1600:"<br />
     <b>Role tab</b><br />
     <br />
     This tab permits assigning roles to the users.<br />
@@ -1680,7 +1680,7 @@ Please recover your backups and consult the logfiles to get more information.";s
         </li>
     </ul>
     <br />
-    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:61:"There must be no slashes in project names for WebDAV to work.";s:61:"There must be no slashes in project names for WebDAV to work.";}s:9:"Statistic";a:9:{s:9:"Statistic";s:9:"Statistic";s:7:"Project";s:7:"Project";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Period";s:6:"Period";s:37:"End time can not be before Start time";s:37:"End time can not be before Start time";s:25:"Selected Statistic Period";s:25:"Selected Statistic Period";s:59:"Choose here the period for the statistics to be calculated.";s:59:"Choose here the period for the statistics to be calculated.";s:12:"Content Help";a:2:{s:7:"General";s:7:"DEFAULT";s:9:"Statistic";s:1630:"<br />
+    <br />";s:12:"Notification";s:7:"DEFAULT";s:7:"History";s:7:"DEFAULT";}s:61:"There must be no slashes in project names for WebDAV to work.";s:61:"There must be no slashes in project names for WebDAV to work.";}s:9:"Statistic";a:9:{s:9:"Statistic";s:9:"Statistic";s:7:"Project";s:7:"Project";s:3:"Sum";s:3:"Sum";s:5:"Total";s:5:"Total";s:6:"Period";s:6:"Period";s:37:"End time can not be before Start time";s:37:"End time can not be before Start time";s:25:"Selected Statistic Period";s:25:"Selected Statistic Period";s:59:"Choose here the period for the statistics to be calculated.";s:59:"Choose here the period for the statistics to be calculated.";s:12:"Content Help";a:2:{s:7:"General";s:7:"DEFAULT";s:9:"Statistic";s:1665:"<br />
     <b>Statistic tab</b><br />
     <br />
     This is a very simple module, it shows all the worked hours for each user on the Projects you have at least Read
@@ -1715,7 +1715,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     This row sums all values for each column: each user's worked hours plus the total worked hours for all users.<br />
     <br />
     <br />
-    ";}}s:8:"Timecard";a:26:{s:8:"Timecard";s:8:"Timecard";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Minutes";s:7:"Minutes";s:7:"Project";s:7:"Project";s:5:"Notes";s:5:"Notes";s:5:"Hours";s:5:"Hours";s:11:"Time period";s:11:"Time period";s:43:"Start time has to be between 0:00 and 24:00";s:43:"Start time has to be between 0:00 and 24:00";s:25:"The start time is invalid";s:25:"The start time is invalid";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:41:"The end time must be after the start time";s:41:"The end time must be after the start time";s:41:"End time has to be between 0:00 and 24:00";s:41:"End time has to be between 0:00 and 24:00";s:23:"The end time is invalid";s:23:"The end time is invalid";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:39:"The entry overlaps with an existing one";s:39:"The entry overlaps with an existing one";s:19:"Manage project list";s:19:"Manage project list";s:36:"Drag the projects from left to right";s:36:"Drag the projects from left to right";s:11:"Total hours";s:11:"Total hours";s:10:"Unassigned";s:10:"Unassigned";s:18:"Start working time";s:18:"Start working time";s:17:"Stop working time";s:17:"Stop working time";s:23:"Click for open the form";s:23:"Click for open the form";s:60:"Favorite projects appear first in the select box of the form";s:60:"Favorite projects appear first in the select box of the form";s:17:"Favorite projects";s:17:"Favorite projects";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Timecard";s:1945:"<br />
+    ";}}s:8:"Timecard";a:26:{s:8:"Timecard";s:8:"Timecard";s:5:"Start";s:5:"Start";s:3:"End";s:3:"End";s:7:"Minutes";s:7:"Minutes";s:7:"Project";s:7:"Project";s:5:"Notes";s:5:"Notes";s:5:"Hours";s:5:"Hours";s:11:"Time period";s:11:"Time period";s:43:"Start time has to be between 0:00 and 24:00";s:43:"Start time has to be between 0:00 and 24:00";s:25:"The start time is invalid";s:25:"The start time is invalid";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:95:"Can not Start Working Time because this moment is occupied by an existing period or an open one";s:41:"The end time must be after the start time";s:41:"The end time must be after the start time";s:41:"End time has to be between 0:00 and 24:00";s:41:"End time has to be between 0:00 and 24:00";s:23:"The end time is invalid";s:23:"The end time is invalid";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:78:"Can not End Working Time because this moment is occupied by an existing period";s:39:"The entry overlaps with an existing one";s:39:"The entry overlaps with an existing one";s:19:"Manage project list";s:19:"Manage project list";s:36:"Drag the projects from left to right";s:36:"Drag the projects from left to right";s:11:"Total hours";s:11:"Total hours";s:10:"Unassigned";s:10:"Unassigned";s:18:"Start working time";s:18:"Start working time";s:17:"Stop working time";s:17:"Stop working time";s:23:"Click for open the form";s:23:"Click for open the form";s:60:"Favorite projects appear first in the select box of the form";s:60:"Favorite projects appear first in the select box of the form";s:17:"Favorite projects";s:17:"Favorite projects";s:12:"Content Help";a:7:{s:7:"General";s:7:"DEFAULT";s:8:"Timecard";s:1977:"<br />
     This is the <b>General Help for Timecard</b><br />
     <br />
     Timecard is a module designed to assign working times to Projects so that it is kept a record about what the people
@@ -1747,7 +1747,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     When you try to add or edit a booking so that some of its time overlaps part of the time of another booking, an
     internal checking will bring up an error for you to correct the start and end time of it and/or the date.<br />
     <br />
-    <br />";s:5:"Month";s:1179:"<br />
+    <br />";s:5:"Month";s:1204:"<br />
     <b>Month section</b><br />
     <br />
     The Date field allows selecting a day to show in the schedule. Also, the selected month will be loaded into
@@ -1772,7 +1772,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     If there is an open period in any day, its total time will be red colored so that the user can notice there is
     something unfinished there.<br />
     <br />
-    <br />";s:3:"Day";s:1160:"<br />
+    <br />";s:3:"Day";s:1184:"<br />
     <b>Day section</b><br />
     <br />
     Day section is located in the center of the Timecard view.<br />
@@ -1796,7 +1796,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     <br />
     Note: the open periods are shown in red color, they will become 'normal' when their end time get filled.<br />
     <br />
-    <br />";s:4:"Form";s:1967:"<br />
+    <br />";s:4:"Form";s:2005:"<br />
     <b>Form section</b><br />
     <br />
     The Form provides a couple of fields to add or edit bookings.<br />
@@ -1834,7 +1834,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     Textarea (without HTML mode): a Note with some description of the booking.<br />
     It is automatically filled when you click on a booking of the day schedule.<br />
     <br />
-    <br />";s:17:"Favorite Projects";s:1058:"<br />
+    <br />";s:17:"Favorite Projects";s:1075:"<br />
     <br />
     <b>Managing favorite Projects list</b><br />
     <br />
@@ -1851,7 +1851,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     ends.<br />
     Projects available to be added to favorites list are those you have at least Read access to.<br />
     <br />
-    <br />";s:13:"Booking times";s:447:"<br />
+    <br />";s:13:"Booking times";s:455:"<br />
     <br />
     <b>Clicking a (+) plus button in a schedule row</b><br />
     <br />
@@ -1859,7 +1859,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     and Time will be loaded into the Form in field Start, and the Form will get into Add mode and End Time will be
     filled automatically as one hour after Start Time, Project and Notes fields will be emptied.<br />
     <br />
-    <br />";}}s:4:"Todo";a:16:{s:4:"Todo";s:4:"Todo";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:7:"Working";s:7:"Working";s:7:"Stopped";s:7:"Stopped";s:5:"Ended";s:5:"Ended";s:7:"Project";s:7:"Project";s:4:"User";s:4:"User";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Todo";s:347:"<br />
+    <br />";}}s:4:"Todo";a:16:{s:4:"Todo";s:4:"Todo";s:5:"Title";s:5:"Title";s:5:"Notes";s:5:"Notes";s:10:"Start date";s:10:"Start date";s:8:"End date";s:8:"End date";s:8:"Priority";s:8:"Priority";s:14:"Current status";s:14:"Current status";s:7:"Waiting";s:7:"Waiting";s:8:"Accepted";s:8:"Accepted";s:7:"Working";s:7:"Working";s:7:"Stopped";s:7:"Stopped";s:5:"Ended";s:5:"Ended";s:7:"Project";s:7:"Project";s:4:"User";s:4:"User";s:7:"Tooltip";a:1:{s:9:"projectId";s:50:"The parent project, if none then select PHProjekt.";}s:12:"Content Help";a:6:{s:7:"General";s:7:"DEFAULT";s:4:"Todo";s:355:"<br />
     This is the <b>General Help of Todo module</b><br />
     <br />
     The Todo is a module to store To-Do items and assign them to a user.<br />
@@ -1867,7 +1867,7 @@ Please recover your backups and consult the logfiles to get more information.";s
     They are always associated to a Project or Subproject and have a Start date, End date, Priority, State and
     other fields to configure all its data.<br />
     <br />
-    <br />";s:10:"Basic data";s:1815:"<br />
+    <br />";s:10:"Basic data";s:1863:"<br />
     <b>Basic Data tab</b><br />
     <br />
     Fields:<br />
