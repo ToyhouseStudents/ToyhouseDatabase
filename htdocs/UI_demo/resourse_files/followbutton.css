@@ -1,0 +1,22 @@
+.att-button span {no-repeat; height:23px; display:inline-block; float:left; line-height:23px; }
+.att-button span.n { padding-right:5px; position:relative; left:2px; }
+.att-button span.f { width:76px; overflow:hidden; text-indent:-999em; margin-right:5px; }
+/*蓝色*/
+/*加关注，蓝色*/
+.att-button.blue span.f { background-image:url(/img/add-color1.png);background-position:0 0;background-repeat:no-repeat; }
+/*已关注，蓝色*/
+.att-button.blue span.f.ok { background-image:url(/img/del-color1.png);background-position:0 0;background-repeat:no-repeat; }
+.att-button.blue span.f.ok:hover,.att-button.blue span.f.ok.hover{background-image:url(/img/followtitle1.png);background-repeat:no-repeat;}
+/*白色*/
+/*加关注，白色*/
+.att-button.white span.f { background-image:url(/img/add-color0.png);background-position:0 0;background-repeat:no-repeat; }
+/*已关注，白色*/
+.att-button.white span.f.ok { background:url(/img/del-color0.png) no-repeat 0 0;}
+.att-button.white span.f.ok:hover,.att-button.white span.f.ok.hover{background-image:url(/img/followtitle0.png);background-repeat:no-repeat;}
+/*===粉丝计数器===*/
+.count{text-decoration: none;}
+.count span{background-repeat:no-repeat;padding-left:1px; height:23px; display:block; float:left; line-height:23px; width:49px;heigth:23px;font-size:13px;vertical-align:middle;text-decoration: none; margin-left: -3px;text-align: center;}
+/*白色*/
+.count.white span.number { background-image:url(/img/count0.png);background-position:0 0;color:black; background-repeat:no-repeat;}
+/*蓝色*/
+.count.blue span.number { background-image:url(/img/count1.png);background-position:0 0;color:white; background-repeat:no-repeat;}
