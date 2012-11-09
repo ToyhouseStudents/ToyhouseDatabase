@@ -34,7 +34,7 @@
 
   Now `Mediawiki` and `q2a` are ready to run. Just test them.
 6. Configure `Elgg`
-  * Modify `move.php`. You can find the file at `elgg/engine/` maily the path:
+  * Modify `move.php`. You can find the file at `elgg/engine/` mainly the path:
   
   ```powershell
   "C:/xampp/htdocs/elgg/"
